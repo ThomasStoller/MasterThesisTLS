@@ -1,0 +1,11 @@
+# PyCharm
+.idea/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Data: raw and labelled CSV, pcapng and gzip files stay outside the repository
+data/
+
+# Notebook execution logs
+*.log
