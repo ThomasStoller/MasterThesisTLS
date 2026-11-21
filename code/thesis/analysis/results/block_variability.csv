@@ -1,0 +1,105 @@
+exp,label,block,frame,macro_f1,mcc
+E1 apple same,group_label_multi,0,left out block,0.9167714405106503,0.8997717971349856
+E1 apple same,group_label_multi,0,transfer,0.4054137059159643,0.2680500800578145
+E1 apple same,group_label_multi,1,left out block,0.8873025921456632,0.8754512080745798
+E1 apple same,group_label_multi,1,transfer,0.40859053972931,0.23647896471943708
+E1 apple same,group_label_multi,2,left out block,0.909448476831659,0.9005292944048942
+E1 apple same,group_label_multi,2,transfer,0.39859205023006217,0.2640326274117049
+E1 apple same,group_label_multi,3,left out block,0.8982807499637122,0.8931922215536605
+E1 apple same,group_label_multi,3,transfer,0.4322881088569011,0.269595705866974
+E1 apple same,group_label_multi,4,left out block,0.8712647367866508,0.8423653825252206
+E1 apple same,group_label_multi,4,transfer,0.4163312637578547,0.29127752444856736
+E1 apple same,group_label,0,left out block,0.9996452766316724,0.9992907769021998
+E1 apple same,group_label,0,transfer,0.6491983868340602,0.3607479645678159
+E1 apple same,group_label,1,left out block,1.0,1.0
+E1 apple same,group_label,1,transfer,0.6402627222046793,0.34577441245883495
+E1 apple same,group_label,2,left out block,0.9999819847987279,0.9999639702465389
+E1 apple same,group_label,2,transfer,0.6201285053137774,0.3194953413814257
+E1 apple same,group_label,3,left out block,0.9999832513150428,0.9999665031911126
+E1 apple same,group_label,3,transfer,0.6279545925492386,0.3299158738043375
+E1 apple same,group_label,4,left out block,0.9945967437941552,0.9892515640032222
+E1 apple same,group_label,4,transfer,0.6277437716887532,0.3305727852550675
+E2 apple diff,group_label_multi,0,left out block,0.8785902854595173,0.8364854068901895
+E2 apple diff,group_label_multi,0,transfer,0.4700002109346592,0.3025628082539599
+E2 apple diff,group_label_multi,1,left out block,0.9170976749397628,0.8752362521313418
+E2 apple diff,group_label_multi,1,transfer,0.4899675504369567,0.3100893522427186
+E2 apple diff,group_label_multi,2,left out block,0.9411271766887653,0.9085134333115512
+E2 apple diff,group_label_multi,2,transfer,0.488107969397084,0.31761541724364734
+E2 apple diff,group_label_multi,3,left out block,0.9037521427540994,0.8653183755041675
+E2 apple diff,group_label_multi,3,transfer,0.48573654339973316,0.3276342114480023
+E2 apple diff,group_label_multi,4,left out block,0.9230875747184583,0.8827608318751844
+E2 apple diff,group_label_multi,4,transfer,0.405883300471541,0.21905651758402347
+E2 apple diff,group_label,0,left out block,0.9929386442556305,0.9859353005448084
+E2 apple diff,group_label,0,transfer,0.6222219424307214,0.3299752979271309
+E2 apple diff,group_label,1,left out block,0.9944817678336237,0.9889636641315468
+E2 apple diff,group_label,1,transfer,0.6016177765762938,0.29212031615452355
+E2 apple diff,group_label,2,left out block,0.998099968358187,0.9961999372426696
+E2 apple diff,group_label,2,transfer,0.6087494371600707,0.30941346374072076
+E2 apple diff,group_label,3,left out block,0.9992436189509709,0.9984872649617694
+E2 apple diff,group_label,3,transfer,0.6065942775693437,0.3064356120756782
+E2 apple diff,group_label,4,left out block,0.9986120306007968,0.9972245670907267
+E2 apple diff,group_label,4,transfer,0.6009757298478378,0.29966366511808634
+E3 samsung same,group_label_multi,0,left out block,0.9419408771136514,0.8992847324971909
+E3 samsung same,group_label_multi,0,transfer,0.5101187805866566,0.35803267202659567
+E3 samsung same,group_label_multi,1,left out block,0.9918071573058139,0.9893408658135907
+E3 samsung same,group_label_multi,1,transfer,0.47337129846612885,0.30211045981061274
+E3 samsung same,group_label_multi,2,left out block,0.9921324514419608,0.989289614905142
+E3 samsung same,group_label_multi,2,transfer,0.4791969345517049,0.3115515345932139
+E3 samsung same,group_label_multi,3,left out block,0.9923465371828125,0.9911135404577875
+E3 samsung same,group_label_multi,3,transfer,0.4669212574720947,0.29105893834208557
+E3 samsung same,group_label_multi,4,left out block,0.9923064716483951,0.9899952502249427
+E3 samsung same,group_label_multi,4,transfer,0.4675997123402413,0.29466792454513224
+E3 samsung same,group_label,0,left out block,0.9710191083095405,0.9434655317492752
+E3 samsung same,group_label,0,transfer,0.6505488682378024,0.3779235719776779
+E3 samsung same,group_label,1,left out block,0.9954720793279399,0.9909643456990257
+E3 samsung same,group_label,1,transfer,0.6691361934323868,0.3766933458652825
+E3 samsung same,group_label,2,left out block,0.9978488280917207,0.9957000091253031
+E3 samsung same,group_label,2,transfer,0.6806229678964822,0.39610950294723907
+E3 samsung same,group_label,3,left out block,0.9983110478848569,0.9966223063955787
+E3 samsung same,group_label,3,transfer,0.6739656441384307,0.38630832544511023
+E3 samsung same,group_label,4,left out block,0.9980402418787486,0.9960805380748051
+E3 samsung same,group_label,4,transfer,0.6624639082065178,0.37029028303700195
+E4 samsung diff,group_label_multi,0,left out block,0.9945635215166805,0.9947552101185072
+E4 samsung diff,group_label_multi,0,transfer,0.6695498708057642,0.6139402484715593
+E4 samsung diff,group_label_multi,1,left out block,0.9905594498577001,0.9857159645443455
+E4 samsung diff,group_label_multi,1,transfer,0.5932099719433253,0.46320293879138874
+E4 samsung diff,group_label_multi,2,left out block,0.9928141100765598,0.9912374364880253
+E4 samsung diff,group_label_multi,2,transfer,0.5993856032327534,0.4536006073266382
+E4 samsung diff,group_label_multi,3,left out block,0.9933368817857153,0.9924336351727097
+E4 samsung diff,group_label_multi,3,transfer,0.6010887917626998,0.4644664955257528
+E4 samsung diff,group_label_multi,4,left out block,0.9916510091237846,0.9896344177377572
+E4 samsung diff,group_label_multi,4,transfer,0.575402807412638,0.39466563583054626
+E4 samsung diff,group_label,0,left out block,0.9986625865336067,0.9973258579146339
+E4 samsung diff,group_label,0,transfer,0.7784507122966514,0.617622083435523
+E4 samsung diff,group_label,1,left out block,0.9970423627633497,0.994086022922002
+E4 samsung diff,group_label,1,transfer,0.7207493594544461,0.5393530636417049
+E4 samsung diff,group_label,2,left out block,0.9990375139950716,0.9980750359781958
+E4 samsung diff,group_label,2,transfer,0.8155910422894674,0.6753966446571285
+E4 samsung diff,group_label,3,left out block,0.9974832452184927,0.9949706503857209
+E4 samsung diff,group_label,3,transfer,0.7416342190556591,0.5660253527984137
+E4 samsung diff,group_label,4,left out block,0.9981058936710732,0.9962121278229756
+E4 samsung diff,group_label,4,transfer,0.8156929553123866,0.6756923279448672
+E5 mixed same,group_label_multi,0,left out block,0.9193431125707742,0.8799306862970053
+E5 mixed same,group_label_multi,0,transfer,0.3645589816612385,0.05949217399143245
+E5 mixed same,group_label_multi,1,left out block,0.9329341376350341,0.9011897030121037
+E5 mixed same,group_label_multi,1,transfer,0.4779941553401243,0.2086737543521141
+E5 mixed same,group_label_multi,2,left out block,0.9112207483573233,0.866057509759325
+E5 mixed same,group_label_multi,2,transfer,0.4765215197742761,0.2365966698803639
+E5 mixed same,group_label,0,left out block,0.9350283984392054,0.8714109037921804
+E5 mixed same,group_label,0,transfer,0.6330821454155409,0.35358741415309997
+E5 mixed same,group_label,1,left out block,0.92890662506865,0.8587697980082822
+E5 mixed same,group_label,1,transfer,0.6362867093873602,0.38164628690330865
+E5 mixed same,group_label,2,left out block,0.9128591163184557,0.8267456264794569
+E5 mixed same,group_label,2,transfer,0.6678029917550792,0.4230751075785106
+E6 mixed diff,group_label_multi,0,left out block,0.8497311962931507,0.7923630581153287
+E6 mixed diff,group_label_multi,0,transfer,0.4876202862308105,0.326302829828117
+E6 mixed diff,group_label_multi,1,left out block,0.9305629974155142,0.8965748307939989
+E6 mixed diff,group_label_multi,1,transfer,0.5327225439377802,0.3215429687856729
+E6 mixed diff,group_label_multi,2,left out block,0.9345642450235893,0.9033352071315234
+E6 mixed diff,group_label_multi,2,transfer,0.5238751765417908,0.3274865934879785
+E6 mixed diff,group_label,0,left out block,0.899603841861907,0.8145657860298968
+E6 mixed diff,group_label,0,transfer,0.6053023495156983,0.34155318243473676
+E6 mixed diff,group_label,1,left out block,0.936965660863303,0.8740224316482463
+E6 mixed diff,group_label,1,transfer,0.6441536206126737,0.3951257085290826
+E6 mixed diff,group_label,2,left out block,0.9347201965104435,0.8721612958769166
+E6 mixed diff,group_label,2,transfer,0.6894012747049352,0.4568982552950266

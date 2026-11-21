@@ -1,0 +1,577 @@
+exp,label,model,split,family,Importance,share,n_features,share_per_feature
+E1 apple same,binary,multi_layer_perceptron,grouped,Burst microstructure,0.1342478840806928,0.2361056060109951,4,0.05902640150274877
+E1 apple same,binary,multi_layer_perceptron,grouped,Channel and PHY,0.0033364771015273772,0.005867958019542623,5,0.0011735916039085246
+E1 apple same,binary,multi_layer_perceptron,grouped,Joint activity,0.0004372695760813203,0.0007690385510195094,7,0.0001098626501456442
+E1 apple same,binary,multi_layer_perceptron,grouped,PDU role,0.11120732947098949,0.195583521464146,6,0.03259725357735767
+E1 apple same,binary,multi_layer_perceptron,grouped,Payload dynamics,0.0032225665396910337,0.005667620245747566,3,0.0018892067485825222
+E1 apple same,binary,multi_layer_perceptron,grouped,Payload shape,0.0116360251338142,0.020464611301635304,3,0.006821537100545102
+E1 apple same,binary,multi_layer_perceptron,grouped,Shape and session span,0.27021789988118994,0.4752399744946319,9,0.05280444161051465
+E1 apple same,binary,multi_layer_perceptron,grouped,Timing,0.0342870791127223,0.06030166991228197,5,0.012060333982456393
+E1 apple same,binary,multi_layer_perceptron,packet,Burst microstructure,0.1336790838802748,0.18962222350000535,4,0.04740555587500134
+E1 apple same,binary,multi_layer_perceptron,packet,Channel and PHY,0.0020291980375673323,0.002878393781857311,5,0.0005756787563714622
+E1 apple same,binary,multi_layer_perceptron,packet,Joint activity,0.0002694469779613478,0.00038220739994109746,7,5.4601057134442496e-05
+E1 apple same,binary,multi_layer_perceptron,packet,PDU role,0.1420581695489145,0.2015078589282635,6,0.03358464315471058
+E1 apple same,binary,multi_layer_perceptron,packet,Payload dynamics,0.005908757622905336,0.008381503867735906,3,0.002793834622578635
+E1 apple same,binary,multi_layer_perceptron,packet,Payload shape,0.0395180952721592,0.05605595786924443,3,0.018685319289748144
+E1 apple same,binary,multi_layer_perceptron,packet,Shape and session span,0.3426602523978987,0.48605957700126196,9,0.054006619666806886
+E1 apple same,binary,multi_layer_perceptron,packet,Timing,0.0388528235301128,0.055112277651690404,5,0.011022455530338081
+E1 apple same,binary,random_forest,grouped,Burst microstructure,0.2028256213985545,0.20282562139855476,4,0.05070640534963869
+E1 apple same,binary,random_forest,grouped,Channel and PHY,0.0011234384640094455,0.0011234384640094468,5,0.00022468769280188937
+E1 apple same,binary,random_forest,grouped,Joint activity,0.0007561017974889862,0.0007561017974889872,7,0.00010801454249842674
+E1 apple same,binary,random_forest,grouped,PDU role,0.0588621408407068,0.05886214084070687,6,0.009810356806784479
+E1 apple same,binary,random_forest,grouped,Payload dynamics,0.005595455718317805,0.0055954557183178115,3,0.0018651519061059372
+E1 apple same,binary,random_forest,grouped,Payload shape,0.0119980582359871,0.011998058235987114,3,0.003999352745329038
+E1 apple same,binary,random_forest,grouped,Shape and session span,0.1375242005890971,0.13752420058909726,9,0.015280466732121918
+E1 apple same,binary,random_forest,grouped,Timing,0.5813149829558371,0.5813149829558377,5,0.11626299659116754
+E1 apple same,binary,random_forest,packet,Burst microstructure,0.17955637771694688,0.1795563777169471,4,0.044889094429236776
+E1 apple same,binary,random_forest,packet,Channel and PHY,0.0024468140274445473,0.0024468140274445504,5,0.0004893628054889101
+E1 apple same,binary,random_forest,packet,Joint activity,0.0005526084640210323,0.000552608464021033,7,7.8944066288719e-05
+E1 apple same,binary,random_forest,packet,PDU role,0.06665326725787958,0.06665326725787966,6,0.011108877876313277
+E1 apple same,binary,random_forest,packet,Payload dynamics,0.0043266319657053525,0.004326631965705358,3,0.0014422106552351192
+E1 apple same,binary,random_forest,packet,Payload shape,0.0123780535412332,0.012378053541233216,3,0.004126017847077739
+E1 apple same,binary,random_forest,packet,Shape and session span,0.1455198285883969,0.14551982858839707,9,0.01616886984315523
+E1 apple same,binary,random_forest,packet,Timing,0.5885664184383712,0.5885664184383719,5,0.11771328368767438
+E1 apple same,binary,stochastic_gradient_descent,grouped,Burst microstructure,-0.002535428634420522,-0.0037504348330240243,4,-0.0009376087082560061
+E1 apple same,binary,stochastic_gradient_descent,grouped,Channel and PHY,0.0023847727300564314,0.0035275829081632174,5,0.0007055165816326435
+E1 apple same,binary,stochastic_gradient_descent,grouped,Joint activity,0.000647942873240742,0.0009584444573282759,7,0.00013692063676118226
+E1 apple same,binary,stochastic_gradient_descent,grouped,PDU role,0.4484070894014181,0.663288859577922,6,0.11054814326298701
+E1 apple same,binary,stochastic_gradient_descent,grouped,Payload dynamics,-0.0013240571757529799,-0.001958560412801495,3,-0.0006528534709338316
+E1 apple same,binary,stochastic_gradient_descent,grouped,Payload shape,0.1277255857820021,0.18893313717532476,3,0.06297771239177492
+E1 apple same,binary,stochastic_gradient_descent,grouped,Shape and session span,0.09687052166137951,0.1432919758812618,9,0.015921330653473533
+E1 apple same,binary,stochastic_gradient_descent,grouped,Timing,-0.00019107578114467834,-0.00028264146567708905,5,-5.6528293135417806e-05
+E1 apple same,binary,stochastic_gradient_descent,packet,Burst microstructure,0.0012244338334792,0.0016747113691211405,4,0.0004186778422802851
+E1 apple same,binary,stochastic_gradient_descent,packet,Channel and PHY,9.537946122517571e-05,0.00013045463440076053,5,2.6090926880152107e-05
+E1 apple same,binary,stochastic_gradient_descent,packet,Joint activity,0.00047093608979955975,0.0006441197573541034,7,9.201710819344335e-05
+E1 apple same,binary,stochastic_gradient_descent,packet,PDU role,0.4841914504235439,0.6622496901702437,6,0.11037494836170729
+E1 apple same,binary,stochastic_gradient_descent,packet,Payload dynamics,-0.001406847053072731,-0.0019242058574131182,3,-0.0006414019524710394
+E1 apple same,binary,stochastic_gradient_descent,packet,Payload shape,0.1363687846868274,0.1865175135346685,3,0.06217250451155617
+E1 apple same,binary,stochastic_gradient_descent,packet,Shape and session span,0.10878027552741848,0.1487835105342118,9,0.016531501170467977
+E1 apple same,binary,stochastic_gradient_descent,packet,Timing,-0.00014187694857264847,-0.00019405126867140431,5,-3.881025373428086e-05
+E1 apple same,multi,multi_layer_perceptron,grouped,Burst microstructure,0.1412760432615164,0.1807604847569241,4,0.045190121189231026
+E1 apple same,multi,multi_layer_perceptron,grouped,Channel and PHY,0.0032911578457430397,0.004210984919126198,5,0.0008421969838252396
+E1 apple same,multi,multi_layer_perceptron,grouped,Joint activity,0.0033021814485015,0.0042250894462093815,7,0.0006035842066013402
+E1 apple same,multi,multi_layer_perceptron,grouped,PDU role,0.1258319757970677,0.16100004231358142,6,0.026833340385596902
+E1 apple same,multi,multi_layer_perceptron,grouped,Payload dynamics,0.014814497262472,0.018954917229933612,3,0.006318305743311204
+E1 apple same,multi,multi_layer_perceptron,grouped,Payload shape,0.0450277427336084,0.057612291625201886,3,0.01920409720840063
+E1 apple same,multi,multi_layer_perceptron,grouped,Shape and session span,0.4183677718849131,0.5352950118556385,9,0.05947722353951539
+E1 apple same,multi,multi_layer_perceptron,grouped,Timing,0.029653491419962298,0.03794117785338477,5,0.007588235570676954
+E1 apple same,multi,multi_layer_perceptron,packet,Burst microstructure,0.1373428474345905,0.15505183334724185,4,0.03876295833681046
+E1 apple same,multi,multi_layer_perceptron,packet,Channel and PHY,0.0093948769306888,0.010606252304975377,5,0.0021212504609950753
+E1 apple same,multi,multi_layer_perceptron,packet,Joint activity,0.0067421356653609,0.007611466597034811,7,0.001087352371004973
+E1 apple same,multi,multi_layer_perceptron,packet,PDU role,0.1406334388468622,0.1587667135961926,6,0.026461118932698768
+E1 apple same,multi,multi_layer_perceptron,packet,Payload dynamics,0.0117614798123408,0.013278004947789676,3,0.004426001649263225
+E1 apple same,multi,multi_layer_perceptron,packet,Payload shape,0.1063266388873985,0.12003639505867096,3,0.040012131686223654
+E1 apple same,multi,multi_layer_perceptron,packet,Shape and session span,0.4441463836281152,0.5014146156310321,9,0.05571273507011468
+E1 apple same,multi,multi_layer_perceptron,packet,Timing,0.029438870707178898,0.0332347185170627,5,0.006646943703412541
+E1 apple same,multi,random_forest,grouped,Burst microstructure,0.1165699569390368,0.11656995693903695,4,0.029142489234759237
+E1 apple same,multi,random_forest,grouped,Channel and PHY,0.0012762964665238078,0.0012762964665238095,5,0.0002552592933047619
+E1 apple same,multi,random_forest,grouped,Joint activity,0.0022876013236768,0.002287601323676803,7,0.00032680018909668615
+E1 apple same,multi,random_forest,grouped,PDU role,0.0504726122475175,0.05047261224751757,6,0.008412102041252928
+E1 apple same,multi,random_forest,grouped,Payload dynamics,0.0041189194130374,0.004118919413037405,3,0.001372973137679135
+E1 apple same,multi,random_forest,grouped,Payload shape,0.0119633333327974,0.011963333332797416,3,0.003987777777599138
+E1 apple same,multi,random_forest,grouped,Shape and session span,0.1761319556912198,0.17613195569122003,9,0.01957021729902445
+E1 apple same,multi,random_forest,grouped,Timing,0.6371793245861892,0.6371793245861901,5,0.12743586491723802
+E1 apple same,multi,random_forest,packet,Burst microstructure,0.1220265558557397,0.12202655585573992,4,0.03050663896393498
+E1 apple same,multi,random_forest,packet,Channel and PHY,0.0008315722933549644,0.0008315722933549659,5,0.00016631445867099317
+E1 apple same,multi,random_forest,packet,Joint activity,0.0020525115219622,0.0020525115219622034,7,0.0002932159317088862
+E1 apple same,multi,random_forest,packet,PDU role,0.0518543792475406,0.05185437924754069,6,0.00864239654125678
+E1 apple same,multi,random_forest,packet,Payload dynamics,0.0036095965880811,0.0036095965880811065,3,0.0012031988626937022
+E1 apple same,multi,random_forest,packet,Payload shape,0.0133505632932059,0.013350563293205924,3,0.004450187764401974
+E1 apple same,multi,random_forest,packet,Shape and session span,0.1730460475506238,0.1730460475506241,9,0.019227338616736013
+E1 apple same,multi,random_forest,packet,Timing,0.63322877364949,0.6332287736494912,5,0.12664575472989822
+E1 apple same,multi,stochastic_gradient_descent,grouped,Burst microstructure,0.033552172262165496,0.04124221994043923,4,0.010310554985109808
+E1 apple same,multi,stochastic_gradient_descent,grouped,Channel and PHY,-0.005700427470818,-0.007006946723717857,5,-0.0014013893447435714
+E1 apple same,multi,stochastic_gradient_descent,grouped,Joint activity,0.00087086461790935,0.0010704639279247043,7,0.00015292341827495776
+E1 apple same,multi,stochastic_gradient_descent,grouped,PDU role,0.3283465820707221,0.40360254020638486,6,0.06726709003439747
+E1 apple same,multi,stochastic_gradient_descent,grouped,Payload dynamics,0.0100767977658829,0.012386366715948859,3,0.004128788905316286
+E1 apple same,multi,stochastic_gradient_descent,grouped,Payload shape,0.1643178227159704,0.20197892797027409,3,0.06732630932342469
+E1 apple same,multi,stochastic_gradient_descent,grouped,Shape and session span,0.2763751944441035,0.3397194812390283,9,0.0377466090265587
+E1 apple same,multi,stochastic_gradient_descent,grouped,Timing,-0.0022549391864583115,-0.002771763841505341,5,-0.0005543527683010682
+E1 apple same,multi,stochastic_gradient_descent,packet,Burst microstructure,0.0590458477147673,0.05550387770654924,4,0.01387596942663731
+E1 apple same,multi,stochastic_gradient_descent,packet,Channel and PHY,-0.0010157912620492,-0.0009548572197069068,5,-0.00019097144394138136
+E1 apple same,multi,stochastic_gradient_descent,packet,Joint activity,-0.0012160881306222803,-0.001143138925001225,7,-0.0001633055607144607
+E1 apple same,multi,stochastic_gradient_descent,packet,PDU role,0.3534190556241089,0.33221858609405136,6,0.05536976434900856
+E1 apple same,multi,stochastic_gradient_descent,packet,Payload dynamics,0.011263122127438687,0.010587483749495514,3,0.0035291612498318382
+E1 apple same,multi,stochastic_gradient_descent,packet,Payload shape,0.2003433660604108,0.18832541354731727,3,0.06277513784910575
+E1 apple same,multi,stochastic_gradient_descent,packet,Shape and session span,0.43709188022724077,0.41087214775630987,9,0.04565246086181221
+E1 apple same,multi,stochastic_gradient_descent,packet,Timing,0.0026515490220621143,0.0024924911462766326,5,0.0004984982292553265
+E2 apple diff,binary,multi_layer_perceptron,grouped,Burst microstructure,0.0855474067893371,0.10269755044200017,4,0.025674387610500043
+E2 apple diff,binary,multi_layer_perceptron,grouped,Channel and PHY,0.0008010188397521207,0.0009616033470542248,5,0.00019232066941084495
+E2 apple diff,binary,multi_layer_perceptron,grouped,Joint activity,0.000449694787229092,0.000539847493082871,7,7.712107044041013e-05
+E2 apple diff,binary,multi_layer_perceptron,grouped,PDU role,0.04769926661104,0.05726179229367677,6,0.009543632048946128
+E2 apple diff,binary,multi_layer_perceptron,grouped,Payload dynamics,0.0026560098370733178,0.003188474256022499,3,0.0010628247520074996
+E2 apple diff,binary,multi_layer_perceptron,grouped,Payload shape,0.1580238022045582,0.18970367433700006,3,0.06323455811233335
+E2 apple diff,binary,multi_layer_perceptron,grouped,Shape and session span,0.4859356198673747,0.5833537181996097,9,0.06481707979995663
+E2 apple diff,binary,multi_layer_perceptron,grouped,Timing,0.051890562557638596,0.06229333963155365,5,0.012458667926310731
+E2 apple diff,binary,multi_layer_perceptron,packet,Burst microstructure,0.1166293204135482,0.15402773746980733,4,0.03850693436745183
+E2 apple diff,binary,multi_layer_perceptron,packet,Channel and PHY,0.0008288272699742,0.001094599442873658,5,0.0002189198885747316
+E2 apple diff,binary,multi_layer_perceptron,packet,Joint activity,0.0005606263788551381,0.0007403971179353361,7,0.00010577101684790517
+E2 apple diff,binary,multi_layer_perceptron,packet,PDU role,0.06154085737768699,0.08127457992746825,6,0.013545763321244709
+E2 apple diff,binary,multi_layer_perceptron,packet,Payload dynamics,0.0038966993987107463,0.005146217004910653,3,0.001715405668303551
+E2 apple diff,binary,multi_layer_perceptron,packet,Payload shape,0.0786589955444043,0.10388182896369547,3,0.034627276321231824
+E2 apple diff,binary,multi_layer_perceptron,packet,Shape and session span,0.4437651944456452,0.5860631668430072,9,0.06511812964922302
+E2 apple diff,binary,multi_layer_perceptron,packet,Timing,0.0513163472768954,0.0677714732303021,5,0.013554294646060418
+E2 apple diff,binary,random_forest,grouped,Burst microstructure,0.3277314320081953,0.3277314320081958,4,0.08193285800204896
+E2 apple diff,binary,random_forest,grouped,Channel and PHY,0.0017068083669298001,0.0017068083669298027,5,0.00034136167338596053
+E2 apple diff,binary,random_forest,grouped,Joint activity,0.003660148827743117,0.0036601488277431225,7,0.0005228784039633032
+E2 apple diff,binary,random_forest,grouped,PDU role,0.0364709938214023,0.036470993821402356,6,0.006078498970233726
+E2 apple diff,binary,random_forest,grouped,Payload dynamics,0.0028039324599794064,0.0028039324599794108,3,0.0009346441533264702
+E2 apple diff,binary,random_forest,grouped,Payload shape,0.0146674560099937,0.014667456009993722,3,0.004889152003331241
+E2 apple diff,binary,random_forest,grouped,Shape and session span,0.1423807188747175,0.14238071887471773,9,0.015820079874968637
+E2 apple diff,binary,random_forest,grouped,Timing,0.4705785096310373,0.47057850963103803,5,0.0941157019262076
+E2 apple diff,binary,random_forest,packet,Burst microstructure,0.305088533896787,0.30508853389678753,4,0.07627213347419688
+E2 apple diff,binary,random_forest,packet,Channel and PHY,0.0008226780294168,0.0008226780294168014,5,0.0001645356058833603
+E2 apple diff,binary,random_forest,packet,Joint activity,0.0025557526698978036,0.002555752669897808,7,0.00036510752427111544
+E2 apple diff,binary,random_forest,packet,PDU role,0.0378440507299996,0.03784405072999967,6,0.006307341788333278
+E2 apple diff,binary,random_forest,packet,Payload dynamics,0.0010419179057401893,0.0010419179057401912,3,0.00034730596858006377
+E2 apple diff,binary,random_forest,packet,Payload shape,0.0197241465687287,0.019724146568728736,3,0.0065747155229095786
+E2 apple diff,binary,random_forest,packet,Shape and session span,0.1390534670183833,0.13905346701838356,9,0.01545038522426484
+E2 apple diff,binary,random_forest,packet,Timing,0.4938694531810448,0.4938694531810457,5,0.09877389063620914
+E2 apple diff,binary,stochastic_gradient_descent,grouped,Burst microstructure,-0.0025418295200036,-0.007178932536887175,4,-0.0017947331342217938
+E2 apple diff,binary,stochastic_gradient_descent,grouped,Channel and PHY,0.0005164463572085401,0.0014586082694153283,5,0.00029172165388306563
+E2 apple diff,binary,stochastic_gradient_descent,grouped,Joint activity,0.0003372710904217806,0.0009525605024749686,7,0.00013608007178213838
+E2 apple diff,binary,stochastic_gradient_descent,grouped,PDU role,0.18623863686267608,0.5259969637133993,6,0.08766616061889988
+E2 apple diff,binary,stochastic_gradient_descent,grouped,Payload dynamics,6.675156997930002e-05,0.00018852759944814056,3,6.284253314938019e-05
+E2 apple diff,binary,stochastic_gradient_descent,grouped,Payload shape,0.1663940977559175,0.46994969289846383,3,0.15664989763282128
+E2 apple diff,binary,stochastic_gradient_descent,grouped,Shape and session span,-0.0592508014579946,-0.16734305077345907,9,-0.01859367230816212
+E2 apple diff,binary,stochastic_gradient_descent,grouped,Timing,0.0005146897369459852,0.0014536470167984363,5,0.00029072940335968727
+E2 apple diff,binary,stochastic_gradient_descent,packet,Burst microstructure,0.000832287926634109,0.0024601315479905544,4,0.0006150328869976386
+E2 apple diff,binary,stochastic_gradient_descent,packet,Channel and PHY,0.0005658173638447708,0.0016724802831452295,5,0.0003344960566290459
+E2 apple diff,binary,stochastic_gradient_descent,packet,Joint activity,-0.00019725742959719966,-0.0005830665207293527,7,-8.329521724705038e-05
+E2 apple diff,binary,stochastic_gradient_descent,packet,PDU role,0.2037288575507204,0.602195194304361,6,0.10036586571739349
+E2 apple diff,binary,stochastic_gradient_descent,packet,Payload dynamics,5.8831163213206466e-05,0.0001738970324982474,3,5.79656774994158e-05
+E2 apple diff,binary,stochastic_gradient_descent,packet,Payload shape,0.1331245403815374,0.3934982968320051,3,0.1311660989440017
+E2 apple diff,binary,stochastic_gradient_descent,packet,Shape and session span,-0.0590682181944023,-0.1745977352468823,9,-0.0193997483607647
+E2 apple diff,binary,stochastic_gradient_descent,packet,Timing,-0.00027858286109771325,-0.0008234535950648834,5,-0.00016469071901297668
+E2 apple diff,multi,multi_layer_perceptron,grouped,Burst microstructure,0.1445909270563436,0.12411488678994924,4,0.03102872169748731
+E2 apple diff,multi,multi_layer_perceptron,grouped,Channel and PHY,0.0158675508321988,0.013620489993847896,5,0.002724097998769579
+E2 apple diff,multi,multi_layer_perceptron,grouped,Joint activity,0.0102744719160335,0.008819467062328815,7,0.0012599238660469735
+E2 apple diff,multi,multi_layer_perceptron,grouped,PDU role,0.1261973562865047,0.10832609561032094,6,0.018054349268386824
+E2 apple diff,multi,multi_layer_perceptron,grouped,Payload dynamics,0.0119854200518203,0.010288121690249584,3,0.0034293738967498613
+E2 apple diff,multi,multi_layer_perceptron,grouped,Payload shape,0.1392051293311669,0.11949179121581692,3,0.03983059707193897
+E2 apple diff,multi,multi_layer_perceptron,grouped,Shape and session span,0.6820060603399057,0.5854247337121073,9,0.06504719263467859
+E2 apple diff,multi,multi_layer_perceptron,grouped,Timing,0.034849589390013695,0.029914413925379153,5,0.005982882785075831
+E2 apple diff,multi,multi_layer_perceptron,packet,Burst microstructure,0.1738495479517236,0.12875165789928938,4,0.032187914474822346
+E2 apple diff,multi,multi_layer_perceptron,packet,Channel and PHY,0.0061859237790368995,0.004581248278027184,5,0.0009162496556054369
+E2 apple diff,multi,multi_layer_perceptron,packet,Joint activity,0.010475407708612501,0.007758007573476027,7,0.001108286796210861
+E2 apple diff,multi,multi_layer_perceptron,packet,PDU role,0.0888713933468875,0.0658174805056673,6,0.010969580084277883
+E2 apple diff,multi,multi_layer_perceptron,packet,Payload dynamics,0.0135848077172643,0.01006080565896288,3,0.00335360188632096
+E2 apple diff,multi,multi_layer_perceptron,packet,Payload shape,0.142229528052948,0.1053341107572836,3,0.035111370252427866
+E2 apple diff,multi,multi_layer_perceptron,packet,Shape and session span,0.8672388285677204,0.6422705050906322,9,0.07136338945451469
+E2 apple diff,multi,multi_layer_perceptron,packet,Timing,0.047834926677336895,0.035426184236661454,5,0.007085236847332291
+E2 apple diff,multi,random_forest,grouped,Burst microstructure,0.201602697987486,0.2016026979874863,4,0.05040067449687158
+E2 apple diff,multi,random_forest,grouped,Channel and PHY,0.0012997444022252,0.001299744402225202,5,0.0002599488804450404
+E2 apple diff,multi,random_forest,grouped,Joint activity,0.0034346284272184988,0.003434628427218504,7,0.0004906612038883577
+E2 apple diff,multi,random_forest,grouped,PDU role,0.0230360795438121,0.023036079543812135,6,0.0038393465906353557
+E2 apple diff,multi,random_forest,grouped,Payload dynamics,0.003974276874377604,0.00397427687437761,3,0.00132475895812587
+E2 apple diff,multi,random_forest,grouped,Payload shape,0.0208162970440187,0.02081629704401873,3,0.006938765681339577
+E2 apple diff,multi,random_forest,grouped,Shape and session span,0.18263979746393139,0.18263979746393166,9,0.020293310829325742
+E2 apple diff,multi,random_forest,grouped,Timing,0.563196478256929,0.5631964782569299,5,0.11263929565138597
+E2 apple diff,multi,random_forest,packet,Burst microstructure,0.201840996955052,0.20184099695505237,4,0.05046024923876309
+E2 apple diff,multi,random_forest,packet,Channel and PHY,0.0008948760869637001,0.0008948760869637017,5,0.00017897521739274034
+E2 apple diff,multi,random_forest,packet,Joint activity,0.00237102340663274,0.0023710234066327443,7,0.0003387176295189635
+E2 apple diff,multi,random_forest,packet,PDU role,0.0295865727868902,0.029586572786890253,6,0.004931095464481709
+E2 apple diff,multi,random_forest,packet,Payload dynamics,0.0025317525679375,0.0025317525679375043,3,0.0008439175226458347
+E2 apple diff,multi,random_forest,packet,Payload shape,0.027342821126576898,0.027342821126576947,3,0.009114273708858983
+E2 apple diff,multi,random_forest,packet,Shape and session span,0.1788593749209387,0.178859374920939,9,0.019873263880104335
+E2 apple diff,multi,random_forest,packet,Timing,0.5565725821490065,0.5565725821490075,5,0.1113145164298015
+E2 apple diff,multi,stochastic_gradient_descent,grouped,Burst microstructure,0.0840156339203373,0.11094821426914485,4,0.027737053567286212
+E2 apple diff,multi,stochastic_gradient_descent,grouped,Channel and PHY,-4.567212682779999e-05,-6.0313071234134995e-05,5,-1.2062614246826999e-05
+E2 apple diff,multi,stochastic_gradient_descent,grouped,Joint activity,0.0029036932941021,0.0038345194904008816,7,0.0005477884986286974
+E2 apple diff,multi,stochastic_gradient_descent,grouped,PDU role,0.1598015019103245,0.2110284770485567,6,0.035171412841426115
+E2 apple diff,multi,stochastic_gradient_descent,grouped,Payload dynamics,0.0016564929076456,0.0021875086990005414,3,0.0007291695663335138
+E2 apple diff,multi,stochastic_gradient_descent,grouped,Payload shape,0.1712792587062492,0.2261856157964574,3,0.0753952052654858
+E2 apple diff,multi,stochastic_gradient_descent,grouped,Shape and session span,0.3329041324491677,0.4396219762273711,9,0.04884688624748568
+E2 apple diff,multi,stochastic_gradient_descent,grouped,Timing,0.004690176101181301,0.006193688469068642,5,0.0012387376938137284
+E2 apple diff,multi,stochastic_gradient_descent,packet,Burst microstructure,0.13961846260327898,0.14902226589048817,4,0.03725556647262204
+E2 apple diff,multi,stochastic_gradient_descent,packet,Channel and PHY,0.0085045637409697,0.0090773765550662,5,0.0018154753110132399
+E2 apple diff,multi,stochastic_gradient_descent,packet,Joint activity,0.002486481809923,0.0026539552613688883,7,0.00037913646590984117
+E2 apple diff,multi,stochastic_gradient_descent,packet,PDU role,0.1584288618765409,0.16909961289560016,6,0.02818326881593336
+E2 apple diff,multi,stochastic_gradient_descent,packet,Payload dynamics,0.00016092053467130002,0.0001717591087732175,3,5.7253036257739164e-05
+E2 apple diff,multi,stochastic_gradient_descent,packet,Payload shape,0.17038196997880312,0.18185780562040127,3,0.060619268540133754
+E2 apple diff,multi,stochastic_gradient_descent,packet,Shape and session span,0.4552147770039359,0.4858751218935614,9,0.05398612465484016
+E2 apple diff,multi,stochastic_gradient_descent,packet,Timing,0.002100618592377876,0.002242102774740674,5,0.0004484205549481348
+E3 samsung same,binary,multi_layer_perceptron,grouped,Burst microstructure,0.2341201583688362,0.22347764919139393,4,0.05586941229784848
+E3 samsung same,binary,multi_layer_perceptron,grouped,Channel and PHY,0.00019928964313867923,0.0001902304409287985,5,3.80460881857597e-05
+E3 samsung same,binary,multi_layer_perceptron,grouped,Joint activity,0.005376391706007726,0.0051319945619456185,7,0.0007331420802779455
+E3 samsung same,binary,multi_layer_perceptron,grouped,PDU role,0.20433831409819198,0.19504961209899427,6,0.03250826868316571
+E3 samsung same,binary,multi_layer_perceptron,grouped,Payload dynamics,0.0034215817397541,0.00326604530359069,3,0.0010886817678635633
+E3 samsung same,binary,multi_layer_perceptron,grouped,Payload shape,0.0995314479056872,0.09500700048022624,3,0.031669000160075414
+E3 samsung same,binary,multi_layer_perceptron,grouped,Shape and session span,0.4664564529986444,0.4452525245693185,9,0.04947250272992428
+E3 samsung same,binary,multi_layer_perceptron,grouped,Timing,0.0341786166641569,0.032624943353601894,5,0.006524988670720379
+E3 samsung same,binary,multi_layer_perceptron,packet,Burst microstructure,0.2243120179364431,0.20909140057823883,4,0.05227285014455971
+E3 samsung same,binary,multi_layer_perceptron,packet,Channel and PHY,0.0005323799548124505,0.000496255490078357,5,9.925109801567141e-05
+E3 samsung same,binary,multi_layer_perceptron,packet,Joint activity,0.003432335806230489,0.0031994358018878765,7,0.0004570622574125538
+E3 samsung same,binary,multi_layer_perceptron,packet,PDU role,0.2180169495927073,0.2032234820028712,6,0.033870580333811864
+E3 samsung same,binary,multi_layer_perceptron,packet,Payload dynamics,0.0043577247032953,0.004062032743179078,3,0.001354010914393026
+E3 samsung same,binary,multi_layer_perceptron,packet,Payload shape,0.0802993446965432,0.0748506593742662,3,0.024950219791422066
+E3 samsung same,binary,multi_layer_perceptron,packet,Shape and session span,0.509183770635133,0.47463327526202764,9,0.05273703058466974
+E3 samsung same,binary,multi_layer_perceptron,packet,Timing,0.0326595624962124,0.030443458747450906,5,0.006088691749490181
+E3 samsung same,binary,random_forest,grouped,Burst microstructure,0.1187279192984674,0.11872791929846759,4,0.029681979824616896
+E3 samsung same,binary,random_forest,grouped,Channel and PHY,0.0001044061186153939,0.00010440611861539407,5,2.0881223723078812e-05
+E3 samsung same,binary,random_forest,grouped,Joint activity,0.0018278446805867269,0.0018278446805867297,7,0.0002611206686552471
+E3 samsung same,binary,random_forest,grouped,PDU role,0.043915946044022804,0.04391594604402287,6,0.007319324340670479
+E3 samsung same,binary,random_forest,grouped,Payload dynamics,0.0108868844556769,0.010886884455676918,3,0.003628961485225639
+E3 samsung same,binary,random_forest,grouped,Payload shape,0.1114558255833811,0.11145582558338127,3,0.03715194186112709
+E3 samsung same,binary,random_forest,grouped,Shape and session span,0.33923955008379947,0.33923955008379997,9,0.03769328334264444
+E3 samsung same,binary,random_forest,grouped,Timing,0.3738416237354487,0.37384162373544927,5,0.07476832474708986
+E3 samsung same,binary,random_forest,packet,Burst microstructure,0.1240821841660016,0.1240821841660018,4,0.03102054604150045
+E3 samsung same,binary,random_forest,packet,Channel and PHY,0.0001576501905043511,0.00015765019050435134,5,3.153003810087027e-05
+E3 samsung same,binary,random_forest,packet,Joint activity,0.001673387344124371,0.0016733873441243737,7,0.00023905533487491052
+E3 samsung same,binary,random_forest,packet,PDU role,0.045704136347960896,0.045704136347960965,6,0.007617356057993494
+E3 samsung same,binary,random_forest,packet,Payload dynamics,0.010494558213434277,0.010494558213434292,3,0.003498186071144764
+E3 samsung same,binary,random_forest,packet,Payload shape,0.0929489625140927,0.09294896251409283,3,0.03098298750469761
+E3 samsung same,binary,random_forest,packet,Shape and session span,0.3456453873737249,0.34564538737372547,9,0.038405043041525054
+E3 samsung same,binary,random_forest,packet,Timing,0.3792937338501553,0.3792937338501559,5,0.07585874677003118
+E3 samsung same,binary,stochastic_gradient_descent,grouped,Burst microstructure,0.0057262557461846,0.017233106757296817,4,0.004308276689324204
+E3 samsung same,binary,stochastic_gradient_descent,grouped,Channel and PHY,0.0003277207464945252,0.0009862721578029732,5,0.00019725443156059464
+E3 samsung same,binary,stochastic_gradient_descent,grouped,Joint activity,0.0007138997883096719,0.002148473943754514,7,0.0003069248491077877
+E3 samsung same,binary,stochastic_gradient_descent,grouped,PDU role,0.17605867087093996,0.5298467279754784,6,0.08830778799591306
+E3 samsung same,binary,stochastic_gradient_descent,grouped,Payload dynamics,-8.857317472999089e-06,-2.6656004265469122e-05,3,-8.885334755156374e-06
+E3 samsung same,binary,stochastic_gradient_descent,grouped,Payload shape,0.033404487117031596,0.1005304544848727,3,0.03351015149495757
+E3 samsung same,binary,stochastic_gradient_descent,grouped,Shape and session span,0.115376303132833,0.34722377715580516,9,0.03858041968397835
+E3 samsung same,binary,stochastic_gradient_descent,grouped,Timing,0.0006749275914294671,0.002031187524989433,5,0.00040623750499788655
+E3 samsung same,binary,stochastic_gradient_descent,packet,Burst microstructure,-0.002071520702222202,-0.005276364181579398,4,-0.0013190910453948494
+E3 samsung same,binary,stochastic_gradient_descent,packet,Channel and PHY,9.695374786822977e-05,0.0002469506010599041,5,4.9390120211980825e-05
+E3 samsung same,binary,stochastic_gradient_descent,packet,Joint activity,2.683541235628926e-05,6.835239850740812e-05,7,9.76462835820116e-06
+E3 samsung same,binary,stochastic_gradient_descent,packet,PDU role,0.18757347276205627,0.4777678311563461,6,0.07962797185939101
+E3 samsung same,binary,stochastic_gradient_descent,packet,Payload dynamics,-2.2507120040859976e-05,-5.732781810324532e-05,3,-1.9109272701081774e-05
+E3 samsung same,binary,stochastic_gradient_descent,packet,Payload shape,0.20490655216890738,0.5219168658440866,3,0.17397228861469552
+E3 samsung same,binary,stochastic_gradient_descent,packet,Shape and session span,-0.037766947428561196,-0.09619607877724094,9,-0.010688453197471215
+E3 samsung same,binary,stochastic_gradient_descent,packet,Timing,-0.00012638613561405588,-0.00032191774781052126,5,-6.438354956210425e-05
+E3 samsung same,multi,multi_layer_perceptron,grouped,Burst microstructure,0.234945660357304,0.22475150798284074,4,0.056187876995710186
+E3 samsung same,multi,multi_layer_perceptron,grouped,Channel and PHY,0.0021027271680497594,0.0020114910876709016,5,0.00040229821753418033
+E3 samsung same,multi,multi_layer_perceptron,grouped,Joint activity,0.012275356285595,0.01174273588206904,7,0.0016775336974384342
+E3 samsung same,multi,multi_layer_perceptron,grouped,PDU role,0.1708603112461358,0.16344678402906593,6,0.027241130671510988
+E3 samsung same,multi,multi_layer_perceptron,grouped,Payload dynamics,0.0101177137492136,0.009678712171215402,3,0.003226237390405134
+E3 samsung same,multi,multi_layer_perceptron,grouped,Payload shape,0.1113293947794969,0.10649887859795518,3,0.035499626199318395
+E3 samsung same,multi,multi_layer_perceptron,grouped,Shape and session span,0.4744050096987621,0.45382085867114536,9,0.05042453985234949
+E3 samsung same,multi,multi_layer_perceptron,grouped,Timing,0.0293212637620567,0.028049031578037384,5,0.005609806315607477
+E3 samsung same,multi,multi_layer_perceptron,packet,Burst microstructure,0.2318666193440038,0.2110354564779261,4,0.052758864119481524
+E3 samsung same,multi,multi_layer_perceptron,packet,Channel and PHY,0.0035907513049799,0.0032681540917318705,5,0.000653630818346374
+E3 samsung same,multi,multi_layer_perceptron,packet,Joint activity,0.0079631922021482,0.007247769886654304,7,0.001035395698093472
+E3 samsung same,multi,multi_layer_perceptron,packet,PDU role,0.1765657597451498,0.16070288949573683,6,0.026783814915956137
+E3 samsung same,multi,multi_layer_perceptron,packet,Payload dynamics,0.0096486292298235,0.008781785319779451,3,0.0029272617732598173
+E3 samsung same,multi,multi_layer_perceptron,packet,Payload shape,0.0967563777387267,0.08806367385271874,3,0.029354557950906246
+E3 samsung same,multi,multi_layer_perceptron,packet,Shape and session span,0.5429937932288188,0.49421060842187925,9,0.05491228982465325
+E3 samsung same,multi,multi_layer_perceptron,packet,Timing,0.0293241804378497,0.026689662453573522,5,0.005337932490714704
+E3 samsung same,multi,random_forest,grouped,Burst microstructure,0.1297849193714052,0.12978491937140546,4,0.032446229842851365
+E3 samsung same,multi,random_forest,grouped,Channel and PHY,0.00037991695562387577,0.00037991695562387647,5,7.598339112477529e-05
+E3 samsung same,multi,random_forest,grouped,Joint activity,0.0017598186283577341,0.0017598186283577374,7,0.0002514026611939625
+E3 samsung same,multi,random_forest,grouped,PDU role,0.0669905545090091,0.06699055450900923,6,0.011165092418168205
+E3 samsung same,multi,random_forest,grouped,Payload dynamics,0.0020354068321305,0.002035406832130504,3,0.0006784689440435012
+E3 samsung same,multi,random_forest,grouped,Payload shape,0.1211722696474537,0.12117226964745392,3,0.04039075654915131
+E3 samsung same,multi,random_forest,grouped,Shape and session span,0.2219511801671647,0.2219511801671651,9,0.024661242240796123
+E3 samsung same,multi,random_forest,grouped,Timing,0.4559259338888534,0.4559259338888543,5,0.09118518677777085
+E3 samsung same,multi,random_forest,packet,Burst microstructure,0.10690478355961701,0.10690478355961716,4,0.02672619588990429
+E3 samsung same,multi,random_forest,packet,Channel and PHY,7.98812794499484e-05,7.988127944994852e-05,5,1.5976255889989703e-05
+E3 samsung same,multi,random_forest,packet,Joint activity,0.0016335059655011247,0.0016335059655011271,7,0.0002333579950715896
+E3 samsung same,multi,random_forest,packet,PDU role,0.0747828760905684,0.07478287609056851,6,0.012463812681761418
+E3 samsung same,multi,random_forest,packet,Payload dynamics,0.0030551007133615003,0.0030551007133615047,3,0.001018366904453835
+E3 samsung same,multi,random_forest,packet,Payload shape,0.1294523203960523,0.1294523203960525,3,0.04315077346535084
+E3 samsung same,multi,random_forest,packet,Shape and session span,0.2119249808246008,0.2119249808246011,9,0.023547220091622342
+E3 samsung same,multi,random_forest,packet,Timing,0.4721665511708475,0.47216655117084816,5,0.09443331023416963
+E3 samsung same,multi,stochastic_gradient_descent,grouped,Burst microstructure,0.0010433919982993152,0.0027193108001419873,4,0.0006798277000354968
+E3 samsung same,multi,stochastic_gradient_descent,grouped,Channel and PHY,5.9344027068020114e-05,0.00015466368727479193,5,3.093273745495839e-05
+E3 samsung same,multi,stochastic_gradient_descent,grouped,Joint activity,-0.0003968078227825037,-0.0010341691328207287,7,-0.0001477384475458184
+E3 samsung same,multi,stochastic_gradient_descent,grouped,PDU role,0.13444256472484753,0.35038712090083507,6,0.05839785348347251
+E3 samsung same,multi,stochastic_gradient_descent,grouped,Payload dynamics,-0.0003392352592093196,-0.0008841222720324506,3,-0.00029470742401081686
+E3 samsung same,multi,stochastic_gradient_descent,grouped,Payload shape,0.2074162319200007,0.5405726711572992,3,0.1801908903857664
+E3 samsung same,multi,stochastic_gradient_descent,grouped,Shape and session span,0.0404983126810218,0.10554757870535039,9,0.011727508745038933
+E3 samsung same,multi,stochastic_gradient_descent,grouped,Timing,0.0002373761082718199,0.0006186547490984887,5,0.00012373094981969773
+E3 samsung same,multi,stochastic_gradient_descent,packet,Burst microstructure,-0.0009591495771259002,-0.0029266643422402954,4,-0.0007316660855600738
+E3 samsung same,multi,stochastic_gradient_descent,packet,Channel and PHY,-6.319306780704359e-05,-0.00019282174818012907,5,-3.856434963602581e-05
+E3 samsung same,multi,stochastic_gradient_descent,packet,Joint activity,8.396887092161353e-05,0.00025621519963638247,7,3.6602171376626065e-05
+E3 samsung same,multi,stochastic_gradient_descent,packet,PDU role,0.11943489815528177,0.3644331040603505,6,0.06073885067672508
+E3 samsung same,multi,stochastic_gradient_descent,packet,Payload dynamics,-2.3372778504016094e-05,-7.131763288866619e-05,3,-2.3772544296222065e-05
+E3 samsung same,multi,stochastic_gradient_descent,packet,Payload shape,0.2082090392056718,0.6353106807400131,3,0.2117702269133377
+E3 samsung same,multi,stochastic_gradient_descent,packet,Shape and session span,-0.0435356954267264,-0.13284097752702168,9,-0.01476010861411352
+E3 samsung same,multi,stochastic_gradient_descent,packet,Timing,-8.829716323723814e-05,-0.00026942216869004073,5,-5.3884433738008144e-05
+E4 samsung diff,binary,multi_layer_perceptron,grouped,Burst microstructure,0.26246327340767134,0.268795730823093,4,0.06719893270577325
+E4 samsung diff,binary,multi_layer_perceptron,grouped,Channel and PHY,0.0004369263445345846,0.0004474680764672788,5,8.949361529345576e-05
+E4 samsung diff,binary,multi_layer_perceptron,grouped,Joint activity,0.0011722167437859556,0.0012004988440405652,7,0.0001714998348629379
+E4 samsung diff,binary,multi_layer_perceptron,grouped,PDU role,0.22962097651015184,0.23516104707529922,6,0.039193507845883206
+E4 samsung diff,binary,multi_layer_perceptron,grouped,Payload dynamics,0.0073175048673795005,0.00749405447509489,3,0.0024980181583649634
+E4 samsung diff,binary,multi_layer_perceptron,grouped,Payload shape,0.0139654605679029,0.014302405555233117,3,0.004767468518411039
+E4 samsung diff,binary,multi_layer_perceptron,grouped,Shape and session span,0.3973228147361496,0.4069090313973436,9,0.04521211459970484
+E4 samsung diff,binary,multi_layer_perceptron,grouped,Timing,0.06414220334268861,0.06568976375342842,5,0.013137952750685683
+E4 samsung diff,binary,multi_layer_perceptron,packet,Burst microstructure,0.2642207457551569,0.23084692876666338,4,0.057711732191665845
+E4 samsung diff,binary,multi_layer_perceptron,packet,Channel and PHY,0.0003742240422694571,0.0003269556695165906,5,6.539113390331812e-05
+E4 samsung diff,binary,multi_layer_perceptron,packet,Joint activity,0.002010409557106,0.0017564740062127014,7,0.0002509248580303859
+E4 samsung diff,binary,multi_layer_perceptron,packet,PDU role,0.2748011644589302,0.24009093099612783,6,0.040015155166021305
+E4 samsung diff,binary,multi_layer_perceptron,packet,Payload dynamics,0.007914420625966201,0.006914747323303897,3,0.0023049157744346326
+E4 samsung diff,binary,multi_layer_perceptron,packet,Payload shape,0.011725377125903599,0.010244340543395439,3,0.003414780181131813
+E4 samsung diff,binary,multi_layer_perceptron,packet,Shape and session span,0.5248227543075226,0.4585322043221435,9,0.050948022702460384
+E4 samsung diff,binary,multi_layer_perceptron,packet,Timing,0.0587021018762273,0.05128741837263691,5,0.010257483674527381
+E4 samsung diff,binary,random_forest,grouped,Burst microstructure,0.0966262745746926,0.09662627457469276,4,0.02415656864367319
+E4 samsung diff,binary,random_forest,grouped,Channel and PHY,0.0001781238531455159,0.0001781238531455162,5,3.562477062910324e-05
+E4 samsung diff,binary,random_forest,grouped,Joint activity,0.00046656249627438434,0.0004665624962743851,7,6.665178518205502e-05
+E4 samsung diff,binary,random_forest,grouped,PDU role,0.0230280090538519,0.02302800905385194,6,0.003838001508975323
+E4 samsung diff,binary,random_forest,grouped,Payload dynamics,0.0197954982111293,0.019795498211129334,3,0.006598499403709778
+E4 samsung diff,binary,random_forest,grouped,Payload shape,0.0536476627611052,0.05364766276110529,3,0.017882554253701763
+E4 samsung diff,binary,random_forest,grouped,Shape and session span,0.3985565032826824,0.39855650328268305,9,0.04428405592029812
+E4 samsung diff,binary,random_forest,grouped,Timing,0.4077013657671171,0.40770136576711774,5,0.08154027315342355
+E4 samsung diff,binary,random_forest,packet,Burst microstructure,0.0765505850626156,0.0765505850626157,4,0.019137646265653924
+E4 samsung diff,binary,random_forest,packet,Channel and PHY,0.0013911091752530351,0.001391109175253037,5,0.00027822183505060743
+E4 samsung diff,binary,random_forest,packet,Joint activity,0.00031777728759702626,0.0003177772875970267,7,4.5396755371003815e-05
+E4 samsung diff,binary,random_forest,packet,PDU role,0.0213390845502183,0.021339084550218327,6,0.0035565140917030546
+E4 samsung diff,binary,random_forest,packet,Payload dynamics,0.026446683042418498,0.026446683042418533,3,0.00881556101413951
+E4 samsung diff,binary,random_forest,packet,Payload shape,0.0493792900054322,0.049379290005432265,3,0.01645976333514409
+E4 samsung diff,binary,random_forest,packet,Shape and session span,0.40942884774454236,0.4094288477445429,9,0.0454920941938381
+E4 samsung diff,binary,random_forest,packet,Timing,0.4151466231319217,0.41514662313192224,5,0.08302932462638445
+E4 samsung diff,binary,stochastic_gradient_descent,grouped,Burst microstructure,0.014198083390224743,0.02718082665494598,4,0.006795206663736495
+E4 samsung diff,binary,stochastic_gradient_descent,grouped,Channel and PHY,0.00014766492199542734,0.00028268989112553017,5,5.653797822510603e-05
+E4 samsung diff,binary,stochastic_gradient_descent,grouped,Joint activity,-0.00018205264355618196,-0.000348521783579757,7,-4.978882622567957e-05
+E4 samsung diff,binary,stochastic_gradient_descent,grouped,PDU role,0.18427975422893098,0.352785366732047,6,0.05879756112200784
+E4 samsung diff,binary,stochastic_gradient_descent,grouped,Payload dynamics,0.010163594528306608,0.019457196684396043,3,0.006485732228132014
+E4 samsung diff,binary,stochastic_gradient_descent,grouped,Payload shape,0.0102768717287414,0.019674054683067575,3,0.006558018227689192
+E4 samsung diff,binary,stochastic_gradient_descent,grouped,Shape and session span,0.30216490935295426,0.5784648389926177,9,0.06427387099917975
+E4 samsung diff,binary,stochastic_gradient_descent,grouped,Timing,0.0011256921793217206,0.0021550263618002126,5,0.00043100527236004254
+E4 samsung diff,binary,stochastic_gradient_descent,packet,Burst microstructure,0.0134553508002173,0.023242384870795465,4,0.005810596217698866
+E4 samsung diff,binary,stochastic_gradient_descent,packet,Channel and PHY,6.593029032539999e-05,0.00011388608183753054,5,2.2777216367506108e-05
+E4 samsung diff,binary,stochastic_gradient_descent,packet,Joint activity,-0.00013278917628920526,-0.00022937619299674987,7,-3.2768027570964265e-05
+E4 samsung diff,binary,stochastic_gradient_descent,packet,PDU role,0.22698220346459025,0.39208251126830607,6,0.06534708521138434
+E4 samsung diff,binary,stochastic_gradient_descent,packet,Payload dynamics,0.00973446807720341,0.016815039378919802,3,0.0056050131263066
+E4 samsung diff,binary,stochastic_gradient_descent,packet,Payload shape,0.0219733585911347,0.037956145838345945,3,0.012652048612781982
+E4 samsung diff,binary,stochastic_gradient_descent,packet,Shape and session span,0.30670306761569127,0.5297900325617952,9,0.058865559173532804
+E4 samsung diff,binary,stochastic_gradient_descent,packet,Timing,-0.0005831580609064704,-0.0010073304139997653,5,-0.00020146608279995306
+E4 samsung diff,multi,multi_layer_perceptron,grouped,Burst microstructure,0.2889600242736855,0.21711478733614897,4,0.05427869683403724
+E4 samsung diff,multi,multi_layer_perceptron,grouped,Channel and PHY,0.0038524362183616997,0.002894590254752578,5,0.0005789180509505156
+E4 samsung diff,multi,multi_layer_perceptron,grouped,Joint activity,0.0045543502996277995,0.0034219847511552963,7,0.0004888549644507566
+E4 samsung diff,multi,multi_layer_perceptron,grouped,PDU role,0.2723456977420411,0.20463134440760472,6,0.03410522406793412
+E4 samsung diff,multi,multi_layer_perceptron,grouped,Payload dynamics,0.0107835849199724,0.008102420923122555,3,0.002700806974374185
+E4 samsung diff,multi,multi_layer_perceptron,grouped,Payload shape,0.0532362385901031,0.03999990880786792,3,0.013333302935955972
+E4 samsung diff,multi,multi_layer_perceptron,grouped,Shape and session span,0.6476269943614243,0.48660501571924447,9,0.054067223968804944
+E4 samsung diff,multi,multi_layer_perceptron,grouped,Timing,0.049549672558092,0.03722994780010353,5,0.007445989560020706
+E4 samsung diff,multi,multi_layer_perceptron,packet,Burst microstructure,0.2977216906012189,0.20830978100558392,4,0.05207744525139598
+E4 samsung diff,multi,multi_layer_perceptron,packet,Channel and PHY,0.005072917972503921,0.0035494170067945203,5,0.000709883401358904
+E4 samsung diff,multi,multi_layer_perceptron,packet,Joint activity,0.007913492030327299,0.005536908609171267,7,0.0007909869441673239
+E4 samsung diff,multi,multi_layer_perceptron,packet,PDU role,0.26278977987640356,0.1838686371356213,6,0.03064477285593688
+E4 samsung diff,multi,multi_layer_perceptron,packet,Payload dynamics,0.010556275217175,0.0073860099822884535,3,0.0024620033274294845
+E4 samsung diff,multi,multi_layer_perceptron,packet,Payload shape,0.0644111078610261,0.04506713550417566,3,0.015022378501391888
+E4 samsung diff,multi,multi_layer_perceptron,packet,Shape and session span,0.7293496580446555,0.5103110466589487,9,0.05670122740654985
+E4 samsung diff,multi,multi_layer_perceptron,packet,Timing,0.0514107689236179,0.035971064097416086,5,0.007194212819483218
+E4 samsung diff,multi,random_forest,grouped,Burst microstructure,0.0859604754159723,0.08596047541597245,4,0.02149011885399311
+E4 samsung diff,multi,random_forest,grouped,Channel and PHY,0.00025102464809613413,0.0002510246480961345,5,5.02049296192269e-05
+E4 samsung diff,multi,random_forest,grouped,Joint activity,0.0015288545298546233,0.0015288545298546257,7,0.00021840778997923226
+E4 samsung diff,multi,random_forest,grouped,PDU role,0.0765820215703267,0.07658202157032683,6,0.012763670261721137
+E4 samsung diff,multi,random_forest,grouped,Payload dynamics,0.0058134763348029,0.005813476334802909,3,0.001937825444934303
+E4 samsung diff,multi,random_forest,grouped,Payload shape,0.1185445378322616,0.11854453783226178,3,0.03951484594408726
+E4 samsung diff,multi,random_forest,grouped,Shape and session span,0.274689076913071,0.27468907691307143,9,0.030521008545896827
+E4 samsung diff,multi,random_forest,grouped,Timing,0.4366305327556133,0.436630532755614,5,0.0873261065511228
+E4 samsung diff,multi,random_forest,packet,Burst microstructure,0.0654512114085609,0.06545121140856099,4,0.016362802852140246
+E4 samsung diff,multi,random_forest,packet,Channel and PHY,0.00020208598864829568,0.00020208598864829595,5,4.041719772965919e-05
+E4 samsung diff,multi,random_forest,packet,Joint activity,0.0013757639202795352,0.001375763920279537,7,0.00019653770289707672
+E4 samsung diff,multi,random_forest,packet,PDU role,0.0788828247462334,0.07888282474623351,6,0.013147137457705585
+E4 samsung diff,multi,random_forest,packet,Payload dynamics,0.0066606924166111,0.006660692416611109,3,0.002220230805537036
+E4 samsung diff,multi,random_forest,packet,Payload shape,0.10694848174861951,0.10694848174861965,3,0.03564949391620655
+E4 samsung diff,multi,random_forest,packet,Shape and session span,0.2915705242052301,0.2915705242052305,9,0.03239672491169228
+E4 samsung diff,multi,random_forest,packet,Timing,0.4489084155658158,0.4489084155658164,5,0.08978168311316329
+E4 samsung diff,multi,stochastic_gradient_descent,grouped,Burst microstructure,0.0158871273609952,0.03749937333934931,4,0.009374843334837327
+E4 samsung diff,multi,stochastic_gradient_descent,grouped,Channel and PHY,-0.00016789299350172815,-0.0003962882591247676,5,-7.925765182495353e-05
+E4 samsung diff,multi,stochastic_gradient_descent,grouped,Joint activity,3.0342107259162518e-05,7.161836008235044e-05,7,1.0231194297478635e-05
+E4 samsung diff,multi,stochastic_gradient_descent,grouped,PDU role,0.1253928038635615,0.2959724221568111,6,0.04932873702613518
+E4 samsung diff,multi,stochastic_gradient_descent,grouped,Payload dynamics,0.005920756529874239,0.013975129330821727,3,0.004658376443607243
+E4 samsung diff,multi,stochastic_gradient_descent,grouped,Payload shape,0.0123077701079672,0.029050794128249142,3,0.009683598042749713
+E4 samsung diff,multi,stochastic_gradient_descent,grouped,Shape and session span,0.26317226731396476,0.6211818461780871,9,0.06902020513089857
+E4 samsung diff,multi,stochastic_gradient_descent,grouped,Timing,0.0009527421679433607,0.002248816506599158,5,0.00044976330131983155
+E4 samsung diff,multi,stochastic_gradient_descent,packet,Burst microstructure,0.015032106194197327,0.03166195948959097,4,0.007915489872397742
+E4 samsung diff,multi,stochastic_gradient_descent,packet,Channel and PHY,4.6429781919399284e-05,9.779453758848731e-05,5,1.9558907517697463e-05
+E4 samsung diff,multi,stochastic_gradient_descent,packet,Joint activity,2.8786464790186978e-05,6.063261330519792e-05,7,8.66180190074256e-06
+E4 samsung diff,multi,stochastic_gradient_descent,packet,PDU role,0.15902850324312032,0.3349599824752186,6,0.05582666374586976
+E4 samsung diff,multi,stochastic_gradient_descent,packet,Payload dynamics,0.01057391853430464,0.022271727990361336,3,0.007423909330120445
+E4 samsung diff,multi,stochastic_gradient_descent,packet,Payload shape,0.0217124232167481,0.04573263755779641,3,0.015244212519265471
+E4 samsung diff,multi,stochastic_gradient_descent,packet,Shape and session span,0.2679834152818985,0.5644505120521984,9,0.06271672356135538
+E4 samsung diff,multi,stochastic_gradient_descent,packet,Timing,0.0003630808946090873,0.0007647532839406751,5,0.000152950656788135
+E5 mixed same,binary,multi_layer_perceptron,grouped,Burst microstructure,0.0782290002084343,0.1300751488825864,4,0.0325187872206466
+E5 mixed same,binary,multi_layer_perceptron,grouped,Channel and PHY,-0.0010873341207531207,-0.0018079631244837184,5,-0.00036159262489674366
+E5 mixed same,binary,multi_layer_perceptron,grouped,Joint activity,0.0046810949767244125,0.0077834834193024355,7,0.0011119262027574908
+E5 mixed same,binary,multi_layer_perceptron,grouped,PDU role,0.12661189467102021,0.21052373168209912,6,0.03508728861368319
+E5 mixed same,binary,multi_layer_perceptron,grouped,Payload dynamics,0.0037570346696308684,0.006247003575492262,3,0.002082334525164087
+E5 mixed same,binary,multi_layer_perceptron,grouped,Payload shape,-0.0015858403390538005,-0.002636853566539565,3,-0.0008789511888465216
+E5 mixed same,binary,multi_layer_perceptron,grouped,Shape and session span,0.3437330646842207,0.5715416206974245,9,0.06350462452193606
+E5 mixed same,binary,multi_layer_perceptron,grouped,Timing,0.0444017925380388,0.07382901174309542,5,0.014765802348619083
+E5 mixed same,binary,multi_layer_perceptron,packet,Burst microstructure,0.1274998448540298,0.13606853003676658,4,0.034017132509191646
+E5 mixed same,binary,multi_layer_perceptron,packet,Channel and PHY,0.0050338218215023,0.0053721221112306965,5,0.0010744244222461394
+E5 mixed same,binary,multi_layer_perceptron,packet,Joint activity,0.0071739496617816995,0.00765607821840061,7,0.0010937254597715158
+E5 mixed same,binary,multi_layer_perceptron,packet,PDU role,0.1761624865909554,0.188001566790105,6,0.031333594465017496
+E5 mixed same,binary,multi_layer_perceptron,packet,Payload dynamics,0.0093442201476989,0.009972202721446223,3,0.003324067573815408
+E5 mixed same,binary,multi_layer_perceptron,packet,Payload shape,0.0719292179756554,0.07676325385216543,3,0.025587751284055143
+E5 mixed same,binary,multi_layer_perceptron,packet,Shape and session span,0.4895608925769303,0.5224620554848062,9,0.058051339498311795
+E5 mixed same,binary,multi_layer_perceptron,packet,Timing,0.0503222603438035,0.053704190785079195,5,0.010740838157015839
+E5 mixed same,binary,random_forest,grouped,Burst microstructure,0.06496916499053809,0.0649691649905382,4,0.01624229124763455
+E5 mixed same,binary,random_forest,grouped,Channel and PHY,0.00038077378879406966,0.0003807737887940703,5,7.615475775881406e-05
+E5 mixed same,binary,random_forest,grouped,Joint activity,0.004288211596821,0.004288211596821008,7,0.0006126016566887154
+E5 mixed same,binary,random_forest,grouped,PDU role,0.1325160121760611,0.13251601217606132,6,0.022086002029343552
+E5 mixed same,binary,random_forest,grouped,Payload dynamics,0.013737743956506501,0.013737743956506525,3,0.004579247985502175
+E5 mixed same,binary,random_forest,grouped,Payload shape,0.031004524373533203,0.03100452437353326,3,0.01033484145784442
+E5 mixed same,binary,random_forest,grouped,Shape and session span,0.3279640985100729,0.32796409851007347,9,0.03644045539000816
+E5 mixed same,binary,random_forest,grouped,Timing,0.4251394706076714,0.42513947060767215,5,0.08502789412153443
+E5 mixed same,binary,random_forest,packet,Burst microstructure,0.0724927352583886,0.07249273525838872,4,0.01812318381459718
+E5 mixed same,binary,random_forest,packet,Channel and PHY,0.0004310959652577135,0.00043109596525771414,5,8.621919305154283e-05
+E5 mixed same,binary,random_forest,packet,Joint activity,0.0045310087268754995,0.004531008726875506,7,0.0006472869609822152
+E5 mixed same,binary,random_forest,packet,PDU role,0.15710595982882208,0.15710595982882233,6,0.026184326638137054
+E5 mixed same,binary,random_forest,packet,Payload dynamics,0.0126689010246981,0.012668901024698118,3,0.004222967008232706
+E5 mixed same,binary,random_forest,packet,Payload shape,0.0214140012715595,0.021414001271559534,3,0.007138000423853178
+E5 mixed same,binary,random_forest,packet,Shape and session span,0.3012914416227198,0.30129144162272026,9,0.03347682684696892
+E5 mixed same,binary,random_forest,packet,Timing,0.43006485630167707,0.43006485630167773,5,0.08601297126033555
+E5 mixed same,binary,stochastic_gradient_descent,grouped,Burst microstructure,-4.168693114712241e-05,-0.00010946208507038105,4,-2.7365521267595264e-05
+E5 mixed same,binary,stochastic_gradient_descent,grouped,Channel and PHY,5.210866393379199e-06,1.368276063376848e-05,5,2.7365521267536962e-06
+E5 mixed same,binary,stochastic_gradient_descent,grouped,Joint activity,1.0421732786758398e-05,2.736552126753696e-05,7,3.909360181076709e-06
+E5 mixed same,binary,stochastic_gradient_descent,grouped,PDU role,0.09074029041895351,0.23826703275652875,6,0.03971117212608812
+E5 mixed same,binary,stochastic_gradient_descent,grouped,Payload dynamics,0.0,0.0,3,0.0
+E5 mixed same,binary,stochastic_gradient_descent,grouped,Payload shape,0.1304349336483012,0.3424977423444955,3,0.11416591411483183
+E5 mixed same,binary,stochastic_gradient_descent,grouped,Shape and session span,0.1596435767386924,0.4191941766170745,9,0.046577130735230496
+E5 mixed same,binary,stochastic_gradient_descent,grouped,Timing,-1.3895643715722272e-05,-3.648736169016589e-05,5,-7.297472338033178e-06
+E5 mixed same,binary,stochastic_gradient_descent,packet,Burst microstructure,0.002164951195510323,0.004501780802725009,4,0.0011254452006812523
+E5 mixed same,binary,stochastic_gradient_descent,packet,Channel and PHY,7.624316249539299e-05,0.00015853937306882214,5,3.170787461376443e-05
+E5 mixed same,binary,stochastic_gradient_descent,packet,Joint activity,-6.560458168245465e-05,-0.00013641760008324902,7,-1.9488228583321288e-05
+E5 mixed same,binary,stochastic_gradient_descent,packet,PDU role,0.12772502814791112,0.26559031951214074,6,0.044265053252023456
+E5 mixed same,binary,stochastic_gradient_descent,packet,Payload dynamics,3.546193604408998e-06,7.37392432872444e-06,3,2.45797477624148e-06
+E5 mixed same,binary,stochastic_gradient_descent,packet,Payload shape,0.1729319042173106,0.3595931068555383,3,0.1198643689518461
+E5 mixed same,binary,stochastic_gradient_descent,packet,Shape and session span,0.1780029610716594,0.37013781864570555,9,0.04112642429396728
+E5 mixed same,binary,stochastic_gradient_descent,packet,Timing,5.3192904065024745e-06,1.1060886492855801e-05,5,2.2121772985711604e-06
+E5 mixed same,multi,multi_layer_perceptron,grouped,Burst microstructure,0.0730146599041198,0.07606577311640576,4,0.01901644327910144
+E5 mixed same,multi,multi_layer_perceptron,grouped,Channel and PHY,-0.00041339540054196407,-0.0004306702350772224,5,-8.613404701544449e-05
+E5 mixed same,multi,multi_layer_perceptron,grouped,Joint activity,0.0059073855346345,0.0061542414684765375,7,0.0008791773526395054
+E5 mixed same,multi,multi_layer_perceptron,grouped,PDU role,0.2209181546585141,0.23014981171748772,6,0.03835830195291462
+E5 mixed same,multi,multi_layer_perceptron,grouped,Payload dynamics,0.020489126658792302,0.021345319718363263,3,0.007115106572787754
+E5 mixed same,multi,multi_layer_perceptron,grouped,Payload shape,0.0224866254429236,0.023426289341635514,3,0.0078087631138785045
+E5 mixed same,multi,multi_layer_perceptron,grouped,Shape and session span,0.5713576043910227,0.5952333128855457,9,0.06613703476506064
+E5 mixed same,multi,multi_layer_perceptron,grouped,Timing,0.045714930869172,0.04762525175208553,5,0.009525050350417107
+E5 mixed same,multi,multi_layer_perceptron,packet,Burst microstructure,0.11394629289786089,0.10058380679594944,4,0.02514595169898736
+E5 mixed same,multi,multi_layer_perceptron,packet,Channel and PHY,0.0050426873055134,0.004451331173404665,5,0.000890266234680933
+E5 mixed same,multi,multi_layer_perceptron,packet,Joint activity,0.0059398742874368,0.0052433050038347235,7,0.0007490435719763891
+E5 mixed same,multi,multi_layer_perceptron,packet,PDU role,0.257035204837008,0.2268926765898169,6,0.03781544609830282
+E5 mixed same,multi,multi_layer_perceptron,packet,Payload dynamics,0.0188373804267845,0.016628320107683486,3,0.005542773369227829
+E5 mixed same,multi,multi_layer_perceptron,packet,Payload shape,0.0911088060852682,0.08042447293045965,3,0.02680815764348655
+E5 mixed same,multi,multi_layer_perceptron,packet,Shape and session span,0.5968403414984441,0.526848851950979,9,0.05853876132788655
+E5 mixed same,multi,multi_layer_perceptron,packet,Timing,0.044098690568011585,0.038927235447872174,5,0.007785447089574435
+E5 mixed same,multi,random_forest,grouped,Burst microstructure,0.0625787004041829,0.062578700404183,4,0.01564467510104575
+E5 mixed same,multi,random_forest,grouped,Channel and PHY,0.0005143231631546044,0.0005143231631546052,5,0.00010286463263092103
+E5 mixed same,multi,random_forest,grouped,Joint activity,0.0026440367401631784,0.0026440367401631823,7,0.00037771953430902605
+E5 mixed same,multi,random_forest,grouped,PDU role,0.0944749900921887,0.09447499009218885,6,0.015745831682031475
+E5 mixed same,multi,random_forest,grouped,Payload dynamics,0.0027749165481733644,0.0027749165481733688,3,0.0009249721827244563
+E5 mixed same,multi,random_forest,grouped,Payload shape,0.084795815605029,0.08479581560502912,3,0.02826527186834304
+E5 mixed same,multi,random_forest,grouped,Shape and session span,0.3405096127737506,0.34050961277375114,9,0.037834401419305684
+E5 mixed same,multi,random_forest,grouped,Timing,0.4117076046733561,0.41170760467335676,5,0.08234152093467136
+E5 mixed same,multi,random_forest,packet,Burst microstructure,0.0618259505011172,0.0618259505011173,4,0.015456487625279325
+E5 mixed same,multi,random_forest,packet,Channel and PHY,0.0004186342021028357,0.00041863420210283634,5,8.372684042056726e-05
+E5 mixed same,multi,random_forest,packet,Joint activity,0.002214526364325094,0.0022145263643250975,7,0.00031636090918929965
+E5 mixed same,multi,random_forest,packet,PDU role,0.0943600919181109,0.09436009191811105,6,0.015726681986351843
+E5 mixed same,multi,random_forest,packet,Payload dynamics,0.003608496758805554,0.0036084967588055597,3,0.0012028322529351865
+E5 mixed same,multi,random_forest,packet,Payload shape,0.094898249078676,0.09489824907867615,3,0.03163274969289205
+E5 mixed same,multi,random_forest,packet,Shape and session span,0.2902280924090612,0.29022809240906167,9,0.032247565823229074
+E5 mixed same,multi,random_forest,packet,Timing,0.4524459587677997,0.4524459587678004,5,0.09048919175356009
+E5 mixed same,multi,stochastic_gradient_descent,grouped,Burst microstructure,0.0165306051552837,0.02526245935363976,4,0.00631561483840994
+E5 mixed same,multi,stochastic_gradient_descent,grouped,Channel and PHY,0.00011116514972557834,0.00016988519477074791,5,3.397703895414958e-05
+E5 mixed same,multi,stochastic_gradient_descent,grouped,Joint activity,0.00027270200792066656,0.0004167496184221548,7,5.9535659774593545e-05
+E5 mixed same,multi,stochastic_gradient_descent,grouped,PDU role,0.2573004238171333,0.3932125555776763,6,0.06553542592961271
+E5 mixed same,multi,stochastic_gradient_descent,grouped,Payload dynamics,-0.0004516084207600386,-0.0006901586037559749,3,-0.0002300528679186583
+E5 mixed same,multi,stochastic_gradient_descent,grouped,Payload shape,0.176064753699715,0.2690662950428031,3,0.0896887650142677
+E5 mixed same,multi,stochastic_gradient_descent,grouped,Shape and session span,0.1929427499478911,0.2948596456301014,9,0.03276218284778905
+E5 mixed same,multi,stochastic_gradient_descent,grouped,Timing,0.011132147571736178,0.017012409582586655,5,0.003402481916517331
+E5 mixed same,multi,stochastic_gradient_descent,packet,Burst microstructure,0.05084709699726027,0.07406536926792075,4,0.018516342316980187
+E5 mixed same,multi,stochastic_gradient_descent,packet,Channel and PHY,-0.0006259031711836,-0.0009117088730193147,5,-0.00018234177460386294
+E5 mixed same,multi,stochastic_gradient_descent,packet,Joint activity,-0.0006560458168213534,-0.0009556155326265009,7,-0.0001365165046609287
+E5 mixed same,multi,stochastic_gradient_descent,packet,PDU role,0.2913393086695565,0.42437336157134226,6,0.0707288935952237
+E5 mixed same,multi,stochastic_gradient_descent,packet,Payload dynamics,-0.00034043458602626064,-0.0004958869790927361,3,-0.0001652956596975787
+E5 mixed same,multi,stochastic_gradient_descent,packet,Payload shape,0.1404079895741906,0.2045223859395381,3,0.06817412864651269
+E5 mixed same,multi,stochastic_gradient_descent,packet,Shape and session span,0.1909288367598425,0.2781125301858285,9,0.03090139224286983
+E5 mixed same,multi,stochastic_gradient_descent,packet,Timing,0.012993253366667424,0.01892635303537054,5,0.003785270607074108
+E6 mixed diff,binary,multi_layer_perceptron,grouped,Burst microstructure,0.2068977916279625,0.36779405067235604,4,0.09194851266808901
+E6 mixed diff,binary,multi_layer_perceptron,grouped,Channel and PHY,-0.0073127977706528005,-0.012999672411451032,5,-0.0025999344822902064
+E6 mixed diff,binary,multi_layer_perceptron,grouped,Joint activity,-0.002392652743235762,-0.004253324491106225,7,-0.0006076177844437465
+E6 mixed diff,binary,multi_layer_perceptron,grouped,PDU role,0.0933464177628619,0.16593824822689357,6,0.02765637470448226
+E6 mixed diff,binary,multi_layer_perceptron,grouped,Payload dynamics,0.005531417613040501,0.009832983106551561,3,0.003277661035517187
+E6 mixed diff,binary,multi_layer_perceptron,grouped,Payload shape,0.0039837593264014995,0.007081771961083416,3,0.002360590653694472
+E6 mixed diff,binary,multi_layer_perceptron,grouped,Shape and session span,0.23881431096994543,0.4245307893286037,9,0.04717008770317819
+E6 mixed diff,binary,multi_layer_perceptron,grouped,Timing,0.0139633835735471,0.024822156704511853,5,0.004964431340902371
+E6 mixed diff,binary,multi_layer_perceptron,packet,Burst microstructure,0.2130376582533667,0.27865816098355406,4,0.06966454024588851
+E6 mixed diff,binary,multi_layer_perceptron,packet,Channel and PHY,0.0010257237319571,0.0013416702528921852,5,0.000268334050578437
+E6 mixed diff,binary,multi_layer_perceptron,packet,Joint activity,0.0067994516571244,0.008893839286467661,7,0.00127054846949538
+E6 mixed diff,binary,multi_layer_perceptron,packet,PDU role,0.1136424481896621,0.14864693820722472,6,0.02477448970120412
+E6 mixed diff,binary,multi_layer_perceptron,packet,Payload dynamics,0.0172776389000887,0.022599549401311286,3,0.0075331831337704285
+E6 mixed diff,binary,multi_layer_perceptron,packet,Payload shape,0.0574889121845013,0.07519682049464604,3,0.02506560683154868
+E6 mixed diff,binary,multi_layer_perceptron,packet,Shape and session span,0.3256189017014757,0.4259170189605853,9,0.047324113217842814
+E6 mixed diff,binary,multi_layer_perceptron,packet,Timing,0.029621804693169898,0.03874600241331881,5,0.007749200482663763
+E6 mixed diff,binary,random_forest,grouped,Burst microstructure,0.1513956772270365,0.15139567722703673,4,0.03784891930675918
+E6 mixed diff,binary,random_forest,grouped,Channel and PHY,0.0006897919637652837,0.0006897919637652847,5,0.00013795839275305695
+E6 mixed diff,binary,random_forest,grouped,Joint activity,0.0015669925170987,0.0015669925170987023,7,0.0002238560738712432
+E6 mixed diff,binary,random_forest,grouped,PDU role,0.0676286824021983,0.06762868240219841,6,0.011271447067033069
+E6 mixed diff,binary,random_forest,grouped,Payload dynamics,0.010356615962290799,0.010356615962290814,3,0.0034522053207636048
+E6 mixed diff,binary,random_forest,grouped,Payload shape,0.0354951513669184,0.035495151366918457,3,0.011831717122306152
+E6 mixed diff,binary,random_forest,grouped,Shape and session span,0.2798171173692973,0.27981711736929776,9,0.031090790818810863
+E6 mixed diff,binary,random_forest,grouped,Timing,0.4530499711913931,0.45304997119139384,5,0.09060999423827877
+E6 mixed diff,binary,random_forest,packet,Burst microstructure,0.1437721153286696,0.14377211532866982,4,0.035943028832167455
+E6 mixed diff,binary,random_forest,packet,Channel and PHY,0.0007088678931646729,0.000708867893164674,5,0.0001417735786329348
+E6 mixed diff,binary,random_forest,packet,Joint activity,0.001225761691515599,0.001225761691515601,7,0.00017510881307365728
+E6 mixed diff,binary,random_forest,packet,PDU role,0.0732690288940368,0.07326902889403691,6,0.012211504815672819
+E6 mixed diff,binary,random_forest,packet,Payload dynamics,0.0069957884940379,0.0069957884940379115,3,0.002331929498012637
+E6 mixed diff,binary,random_forest,packet,Payload shape,0.033746775271446997,0.03374677527144705,3,0.01124892509048235
+E6 mixed diff,binary,random_forest,packet,Shape and session span,0.2753306800111583,0.27533068001115873,9,0.030592297779017636
+E6 mixed diff,binary,random_forest,packet,Timing,0.4649509824159686,0.4649509824159693,5,0.09299019648319387
+E6 mixed diff,binary,stochastic_gradient_descent,grouped,Burst microstructure,0.0679471428999491,0.11508206372245527,4,0.02877051593061382
+E6 mixed diff,binary,stochastic_gradient_descent,grouped,Channel and PHY,-7.640907320294321e-05,-0.00012941403355639028,5,-2.5882806711278057e-05
+E6 mixed diff,binary,stochastic_gradient_descent,grouped,Joint activity,-0.0013663740149221413,-0.0023142274235947997,7,-0.0003306039176564
+E6 mixed diff,binary,stochastic_gradient_descent,grouped,PDU role,0.2281110478530547,0.38635164076694306,6,0.06439194012782384
+E6 mixed diff,binary,stochastic_gradient_descent,grouped,Payload dynamics,-0.000910916009948054,-0.0015428182823964652,3,-0.0005142727607988217
+E6 mixed diff,binary,stochastic_gradient_descent,grouped,Payload shape,0.14922392353099792,0.2527405324753097,3,0.08424684415843657
+E6 mixed diff,binary,stochastic_gradient_descent,grouped,Shape and session span,0.1449435172145147,0.24549080906608758,9,0.02727675656289862
+E6 mixed diff,binary,stochastic_gradient_descent,grouped,Timing,0.0001977646600544375,0.00033495396920437,5,6.6990793840874e-05
+E6 mixed diff,binary,stochastic_gradient_descent,packet,Burst microstructure,0.0798451737763086,0.12802523887718037,4,0.03200630971929509
+E6 mixed diff,binary,stochastic_gradient_descent,packet,Channel and PHY,-3.225546326899309e-05,-5.1719010615169494e-05,5,-1.0343802123033898e-05
+E6 mixed diff,binary,stochastic_gradient_descent,packet,Joint activity,-0.0022594952019996998,-0.0036229166936034203,7,-0.0005175595276576315
+E6 mixed diff,binary,stochastic_gradient_descent,packet,PDU role,0.2577501814369811,0.41328144192601535,6,0.06888024032100255
+E6 mixed diff,binary,stochastic_gradient_descent,packet,Payload dynamics,0.0002241754697202368,0.0003594471237766062,3,0.0001198157079255354
+E6 mixed diff,binary,stochastic_gradient_descent,packet,Payload shape,0.1476800258043706,0.236792904151743,3,0.078930968050581
+E6 mixed diff,binary,stochastic_gradient_descent,packet,Shape and session span,0.138103378759778,0.2214375299000534,9,0.024604169988894822
+E6 mixed diff,binary,stochastic_gradient_descent,packet,Timing,6.45109265385004e-05,0.00010343802123116351,5,2.06876042462327e-05
+E6 mixed diff,multi,multi_layer_perceptron,grouped,Burst microstructure,0.2388083181014591,0.32216109368431295,4,0.08054027342107824
+E6 mixed diff,multi,multi_layer_perceptron,grouped,Channel and PHY,-0.0005288706439338,-0.0007134657051386806,5,-0.00014269314102773612
+E6 mixed diff,multi,multi_layer_perceptron,grouped,Joint activity,0.0008360051538667,0.0011278013129383236,7,0.00016111447327690336
+E6 mixed diff,multi,multi_layer_perceptron,grouped,PDU role,0.0653522308452939,0.08816253274261864,6,0.014693755457103106
+E6 mixed diff,multi,multi_layer_perceptron,grouped,Payload dynamics,0.0216642195787012,0.02922581896969878,3,0.00974193965656626
+E6 mixed diff,multi,multi_layer_perceptron,grouped,Payload shape,0.005089443562161,0.006865844193642246,3,0.002288614731214082
+E6 mixed diff,multi,multi_layer_perceptron,grouped,Shape and session span,0.39749647918976383,0.5362371859133982,9,0.059581909545933134
+E6 mixed diff,multi,multi_layer_perceptron,grouped,Timing,0.0120231924010426,0.016219723183390815,5,0.003243944636678163
+E6 mixed diff,multi,multi_layer_perceptron,packet,Burst microstructure,0.2359987097814692,0.26545739522277945,4,0.06636434880569486
+E6 mixed diff,multi,multi_layer_perceptron,packet,Channel and PHY,0.0008354164986693,0.0009396978816885903,5,0.00018793957633771806
+E6 mixed diff,multi,multi_layer_perceptron,packet,Joint activity,0.0033706959116198,0.0037914451210992284,7,0.0005416350172998898
+E6 mixed diff,multi,multi_layer_perceptron,packet,PDU role,0.1116393839206514,0.12557483931710448,6,0.02092913988618408
+E6 mixed diff,multi,multi_layer_perceptron,packet,Payload dynamics,0.0286251108781549,0.03219825811215053,3,0.010732752704050177
+E6 mixed diff,multi,multi_layer_perceptron,packet,Payload shape,0.0279848399322635,0.031478064947999165,3,0.010492688315999721
+E6 mixed diff,multi,multi_layer_perceptron,packet,Shape and session span,0.4589549229900811,0.5162442561420507,9,0.057360472904672305
+E6 mixed diff,multi,multi_layer_perceptron,packet,Timing,0.0216176114829448,0.02431604325512787,5,0.004863208651025574
+E6 mixed diff,multi,random_forest,grouped,Burst microstructure,0.1245485031951944,0.1245485031951946,4,0.03113712579879865
+E6 mixed diff,multi,random_forest,grouped,Channel and PHY,0.0007364512754809,0.0007364512754809012,5,0.00014729025509618024
+E6 mixed diff,multi,random_forest,grouped,Joint activity,0.0014626000112328147,0.001462600011232817,7,0.0002089428587475453
+E6 mixed diff,multi,random_forest,grouped,PDU role,0.0562585132017818,0.0562585132017819,6,0.00937641886696365
+E6 mixed diff,multi,random_forest,grouped,Payload dynamics,0.008518023963533001,0.008518023963533015,3,0.0028393413211776717
+E6 mixed diff,multi,random_forest,grouped,Payload shape,0.0844129640419648,0.08441296404196494,3,0.02813765468065498
+E6 mixed diff,multi,random_forest,grouped,Shape and session span,0.2815123025516389,0.28151230255163934,9,0.03127914472795992
+E6 mixed diff,multi,random_forest,grouped,Timing,0.44255064175917175,0.44255064175917247,5,0.0885101283518345
+E6 mixed diff,multi,random_forest,packet,Burst microstructure,0.1276138957949148,0.12761389579491497,4,0.03190347394872874
+E6 mixed diff,multi,random_forest,packet,Channel and PHY,0.0005599290064159904,0.0005599290064159911,5,0.00011198580128319823
+E6 mixed diff,multi,random_forest,packet,Joint activity,0.0009389028682806613,0.0009389028682806626,7,0.0001341289811829518
+E6 mixed diff,multi,random_forest,packet,PDU role,0.047376644509764504,0.047376644509764566,6,0.007896107418294095
+E6 mixed diff,multi,random_forest,packet,Payload dynamics,0.0041993366477224995,0.004199336647722505,3,0.0013997788825741682
+E6 mixed diff,multi,random_forest,packet,Payload shape,0.0906687801749649,0.09066878017496502,3,0.03022292672498834
+E6 mixed diff,multi,random_forest,packet,Shape and session span,0.312059213042223,0.3120592130422234,9,0.034673245893580375
+E6 mixed diff,multi,random_forest,packet,Timing,0.41658329795571225,0.4165832979557128,5,0.08331665959114257
+E6 mixed diff,multi,stochastic_gradient_descent,grouped,Burst microstructure,0.13815959008779521,0.209541814744458,4,0.0523854536861145
+E6 mixed diff,multi,stochastic_gradient_descent,grouped,Channel and PHY,0.0011281574925837,0.0017110369838483528,5,0.0003422073967696706
+E6 mixed diff,multi,stochastic_gradient_descent,grouped,Joint activity,-0.005929943367393001,-0.00899373755919357,7,-0.0012848196513133672
+E6 mixed diff,multi,stochastic_gradient_descent,grouped,PDU role,0.1500059928684863,0.22750883922160345,6,0.037918139870267244
+E6 mixed diff,multi,stochastic_gradient_descent,grouped,Payload dynamics,0.0020076109429776,0.0030448732514697934,3,0.0010149577504899312
+E6 mixed diff,multi,stochastic_gradient_descent,grouped,Payload shape,0.1440206154675934,0.21843102680397414,3,0.07281034226799138
+E6 mixed diff,multi,stochastic_gradient_descent,grouped,Shape and session span,0.2095810984927931,0.3178643168122451,9,0.035318257423582786
+E6 mixed diff,multi,stochastic_gradient_descent,grouped,Timing,0.014438318401102357,0.0218980921824011,5,0.00437961843648022
+E6 mixed diff,multi,stochastic_gradient_descent,packet,Burst microstructure,0.1609483106201113,0.22812026397178317,4,0.05703006599294579
+E6 mixed diff,multi,stochastic_gradient_descent,packet,Channel and PHY,-0.00031449076687340875,-0.00044574383216226213,5,-8.914876643245242e-05
+E6 mixed diff,multi,stochastic_gradient_descent,packet,Joint activity,-0.0016240625755984317,-0.002301866866603288,7,-0.0003288381238004697
+E6 mixed diff,multi,stochastic_gradient_descent,packet,PDU role,0.1937682444964117,0.2746376331231099,6,0.04577293885385165
+E6 mixed diff,multi,stochastic_gradient_descent,packet,Payload dynamics,0.0017611482944924,0.0024961654601105263,3,0.0008320551533701754
+E6 mixed diff,multi,stochastic_gradient_descent,packet,Payload shape,0.12102088541246679,0.17152908421358212,3,0.05717636140452737
+E6 mixed diff,multi,stochastic_gradient_descent,packet,Shape and session span,0.2139150068542861,0.30319266877118717,9,0.03368807430790968
+E6 mixed diff,multi,stochastic_gradient_descent,packet,Timing,0.014127892911862002,0.020024184460227145,5,0.004004836892045429

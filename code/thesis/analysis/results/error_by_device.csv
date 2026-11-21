@@ -1,0 +1,65 @@
+exp,frame,device,group,packets,sources,own_group,other_group,background
+E1 apple same,indomain,Buds,1,9000,9,0.8888888888888888,0.1111111111111111,0.0
+E1 apple same,indomain,Buds,2,11000,11,0.9446363636363636,0.055363636363636365,0.0
+E1 apple same,indomain,Phone,1,14000,14,1.0,0.0,0.0
+E1 apple same,indomain,Phone,2,10000,10,1.0,0.0,0.0
+E1 apple same,indomain,Smart Tag,1,12809,25,0.6649231009446483,0.33499882894839567,7.807010695604653e-05
+E1 apple same,indomain,Smart Tag,2,9620,19,0.6797297297297298,0.3201663201663202,0.00010395010395010396
+E1 apple same,transfer,Buds,1,10000,10,0.9,0.0,0.1
+E1 apple same,transfer,Buds,2,13994,19,7.145919679862798e-05,0.6430613119908533,0.35686722881234817
+E1 apple same,transfer,Phone,1,9000,9,1.0,0.0,0.0
+E1 apple same,transfer,Phone,2,8257,9,0.0,1.0,0.0
+E1 apple same,transfer,Smart Tag,1,5862,19,0.04418287273967929,0.005458887751620608,0.9503582395087001
+E1 apple same,transfer,Smart Tag,2,5872,19,0.0008514986376021798,0.004598092643051771,0.9945504087193461
+E2 apple diff,indomain,Buds,1,11000,11,0.8374545454545455,0.16254545454545455,0.0
+E2 apple diff,indomain,Buds,2,12000,12,0.83325,0.08475,0.082
+E2 apple diff,indomain,Phone,1,10000,10,1.0,0.0,0.0
+E2 apple diff,indomain,Phone,2,11000,11,1.0,0.0,0.0
+E2 apple diff,indomain,Smart Tag,1,17994,30,0.6582194064688229,0.3416694453706791,0.00011114816049794375
+E2 apple diff,indomain,Smart Tag,2,12151,25,0.8611636902312567,0.13587359065097523,0.0029627191177680847
+E2 apple diff,transfer,Buds,1,8000,8,0.010875,0.864,0.125125
+E2 apple diff,transfer,Buds,2,8000,8,0.87475,0.000125,0.125125
+E2 apple diff,transfer,Phone,1,7000,7,0.9807142857142858,0.0,0.019285714285714285
+E2 apple diff,transfer,Phone,2,6000,6,0.32066666666666666,0.6786666666666666,0.0006666666666666666
+E2 apple diff,transfer,Smart Tag,1,3675,13,0.0,0.10340136054421768,0.8965986394557823
+E2 apple diff,transfer,Smart Tag,2,3356,13,0.17610250297973778,0.0,0.8238974970202623
+E3 samsung same,indomain,AirTag,2,1000,1,0.0,0.0,1.0
+E3 samsung same,indomain,Buds,1,1000,1,0.0,0.0,1.0
+E3 samsung same,indomain,Buds,2,1000,1,0.0,0.0,1.0
+E3 samsung same,indomain,Phone,1,75737,83,0.993728296605358,0.0,0.006271703394641985
+E3 samsung same,indomain,Phone,2,23000,23,1.0,0.0,0.0
+E3 samsung same,transfer,AirTag,1,1000,1,0.0,0.0,1.0
+E3 samsung same,transfer,AirTag,2,1000,1,0.0,0.0,1.0
+E3 samsung same,transfer,Buds,1,1000,1,0.0,0.0,1.0
+E3 samsung same,transfer,Buds,2,1000,1,0.0,0.0,1.0
+E3 samsung same,transfer,Phone,1,41204,44,0.1844966508106009,0.3155033491893991,0.5
+E3 samsung same,transfer,Phone,2,12000,12,0.9998333333333334,0.0,0.00016666666666666666
+E4 samsung diff,indomain,Phone,1,89522,94,0.9999776591228972,0.0,2.2340877102835057e-05
+E4 samsung diff,indomain,Phone,2,17000,17,1.0,0.0,0.0
+E4 samsung diff,transfer,AirTag,1,1000,1,0.0,0.924,0.076
+E4 samsung diff,transfer,AirTag,2,1000,1,0.915,0.0,0.085
+E4 samsung diff,transfer,Buds,1,1000,1,0.0,0.949,0.051
+E4 samsung diff,transfer,Buds,2,1000,1,0.938,0.001,0.061
+E4 samsung diff,transfer,Phone,1,57813,60,0.7463546261221524,0.23143583623060557,0.02220953764724197
+E4 samsung diff,transfer,Phone,2,12000,12,1.0,0.0,0.0
+E5 mixed same,indomain,Buds,2,8000,8,1.0,0.0,0.0
+E5 mixed same,indomain,Phone,1,26131,27,0.9949867972905744,0.0,0.0050132027094255864
+E5 mixed same,indomain,Phone,2,11000,11,0.9999090909090909,0.0,9.09090909090909e-05
+E5 mixed same,indomain,Smart Tag,2,6806,13,0.8608580664119895,0.0,0.13914193358801058
+E5 mixed same,transfer,AirTag,1,1335,2,0.0,0.0,1.0
+E5 mixed same,transfer,Buds,1,1000,1,0.0,0.885,0.115
+E5 mixed same,transfer,Buds,2,7560,8,0.8677248677248677,0.0,0.13227513227513227
+E5 mixed same,transfer,Phone,1,24750,25,0.13462626262626262,0.0,0.8653737373737374
+E5 mixed same,transfer,Phone,2,8000,8,0.0,0.007375,0.992625
+E5 mixed same,transfer,Smart Tag,2,2963,14,0.08572392845089437,0.0,0.9142760715491056
+E6 mixed diff,indomain,Buds,1,1000,1,0.0,0.936,0.064
+E6 mixed diff,indomain,Buds,2,5000,5,1.0,0.0,0.0
+E6 mixed diff,indomain,Phone,1,29000,29,1.0,0.0,0.0
+E6 mixed diff,indomain,Phone,2,8000,8,0.999,0.0,0.001
+E6 mixed diff,indomain,Smart Tag,2,5911,12,0.9815598037557097,0.0,0.018440196244290306
+E6 mixed diff,transfer,AirTag,1,1000,1,0.0,0.071,0.929
+E6 mixed diff,transfer,Buds,1,1000,1,0.0,0.927,0.073
+E6 mixed diff,transfer,Buds,2,10000,10,0.9,0.0,0.1
+E6 mixed diff,transfer,Phone,1,32000,32,0.49928125,0.5,0.00071875
+E6 mixed diff,transfer,Phone,2,9000,9,0.6601111111111111,0.0,0.3398888888888889
+E6 mixed diff,transfer,Smart Tag,2,5089,17,0.8879937119276872,0.0,0.11200628807231283
