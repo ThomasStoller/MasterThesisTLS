@@ -1,4 +1,20 @@
 # BLEGroupID
+
+## Repository structure (multi-group thesis)
+- `code/thesis/` everything the thesis results are based on
+  - `labeling/` labelling notebooks of the six experiments (E1-E6) and the university captures
+  - `modeling/` one modelling notebook per experiment (E1-E6) and `results_comparison.ipynb`;
+    a run writes its exported frames, predictions and metrics to `modeling/artifacts/<experiment>/` (not in git)
+  - `analysis/` analysis notebooks 01-05 (metrics and significance, feature family ablation,
+    error analysis by device, feature importance per family, clustering and payload) and the
+    shared module `analysis_utils.py`; they only read `modeling/artifacts/`
+- `code/archive/` earlier experiments and notebooks (apartment runs, 8 h runs, first experiment,
+  single-group notebooks of the preceding theses, old ablation study); kept for reference only
+- `data/` raw and labelled captures (not in git)
+
+All notebooks use paths relative to their own folder (`../../../data/...`), so run them with the
+notebook folder as working directory (the PyCharm / Jupyter default).
+
 The Github repository contains the following:
 - The labeling, preprocessing and modeling scripts used in the thesis
 - The most relevant plots used in the thesis
